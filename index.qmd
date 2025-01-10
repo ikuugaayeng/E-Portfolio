@@ -1,22 +1,22 @@
 ---
 title: "Your E-Portfolio"
-image: images/MGEM_logo.png
+image: images/headshot.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
+      href: https://www.linkedin.com/in/isaac-k/
     - icon: twitter
       text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://x.com/ikuugaayeng
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/ikuugaayeng
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:isaac020@student.ubc.ca
 ---
 
 Hey there,
