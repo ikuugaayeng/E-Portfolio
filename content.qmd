@@ -1,5 +1,5 @@
 ---
-title: "Content & Deliverables"
+title: "Project & Deliverables"
 format: html
 editor: visual
 ---

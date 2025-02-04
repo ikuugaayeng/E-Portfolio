@@ -5,69 +5,263 @@ editor:
     wrap: sentence
 ---
 
+::: {style="background-color: #f5f5f5"}
 # Education
+:::
 
--   The University of British Columbia Sep 2024 – Present
+::: {style="background-color: #f5f5f5"}
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Master of Geomatic for Environmental Management**                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                           |
+| The University of British Columbia                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                           |
+| Sep 2024 – Present                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                           |
+| Vancouver, Canada                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                           |
+| Master of Geomatics for Environmental Management is a professional master’s degree program that provides essential training in the use and application of geospatial tools used to plan, develop, manage, and evaluate programs to protect and regulate natural habitats and renewable natural resources. |
+|                                                                                                                                                                                                                                                                                                           |
+| \                                                                                                                                                                                                                                                                                                         |
+| Some of the top and relevant modules in this master's degree include:\                                                                                                                                                                                                                                    |
+| • Remote Sensing for Ecosystem Management                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                           |
+| • Geospatial Data Analysis                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                           |
+| • Geographic Information Systems for Forestry and Conservation                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                           |
+| • Landscape Ecology and Management                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                           |
+| • Linear Regression Models and Introduction to Spatial Statistics                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                           |
+| ![](images/UBC%20LOGO.JPG){width="240"}                                                                                                                                                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-    Master of Geomatic for Environmental Management
+**Bachelor of Science in Land Economy First Class Honors**
 
--   Kwame Nkrumah University of Science and Technology (KNUST), Ghana Sep 2019 – Nov 2023
+Kwame Nkrumah University of Science and Technology
 
-    Bachelor of Science in Land Economy\
-    First Class Honors
+Sep 2019 - Nov 2023
 
+Kumasi, Ghana
+
+Bachelor of Science in Land Economy is a degree that focuses on law, economics and their relationship to the built environment.
+In this degree, I explored other key areas including business regulation, the financial aspects of real estate and international development.
+
+::: {style="background-color: #f5f5f5"}
+Some relevant modules include :
+
+• Geo – Information Systems\
+• Principles of Forestry\
+• Law of Contract\
+• Financial Mathematics\
+• Law of Real Property\
+• Research Methods\
+• Land Use Planning and Administration\
+• Real Estate Finance\
+• Property Valuation and Appraisal\
+• Law relating to Estate Management
+
+![](images/knust-logo-964D7E2BF7-seeklogo.com.png){width="173"}
+:::
+:::
+
+::: {style="background-color: #f5f5f5"}
 # Publications
+:::
 
+::: {style="background-color: #f5f5f5"}
 Ayitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana.
-American Real Estate Society (Paper Accepted for presentation at the forthcoming American Real Estate Society Conference in March 2024)
+American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024)
+:::
 
-*Peer-reviewed publications:*
+::: {style="background-color: #f5f5f5"}
+# Technical Proficiency
+:::
 
--   List any peer-reviewed publications here.
+::: {style="background-color: #f5f5f5"}
+• Programming Languages: R, Python
 
-*Reports:*
+• GIS Software: ArcGIS Pro, QGIS
 
--   List any non-peer reviewed materials you'd like to share here.
+• MS Office Applications: Microsoft Office (Word, Excel, PowerPoint, SharePoint)
+:::
 
-# Conferences & Talks
+::: {style="background-color: #f5f5f5"}
+# Professional Work Experience
+:::
 
-*Invited Talks*
+::: {style="background-color: #f5f5f5"}
+**Research and Teaching Assistant, Department of Land Economy, KNUST**
 
--   If you've been invited to speak in a professional setting, list that here.
+Nov 2023 – Aug 2024                                                     
 
-*Conference Presentations*
+• Reinforced lessons through tutorials on GIS, Statistics, Research Methods and Financial Mathematics for first and final-year undergraduate students.
 
--   If the presentation was at a conference, list them here.
+• Assisted lecturers in facilitating tutorials and class quizzes, undertaking research projects and grading examination scripts of undergraduate students.
 
-# Awards & Honors
+![](images/knust-logo-964D7E2BF7-seeklogo.com-01.png){width="170"}
+:::
 
--   Mastercard Foundation Scholarship Recipient. Aug 2024 – Present
--   Wells Mountain Initiative Scholarship of \$1920 for undergraduate studies. Aug 2022
+::: {style="background-color: #f5f5f5"}
+**Research Assistant, Pacific Real Estate Advisors, Ghana**
 
-# Teaching Assistantships
+Nov 2023 – Aug 2024                                                     
 
-**Teaching and Research Assistant, Department of Land Economy, KNUST Nov 2023 – Aug 2024**
+• Conducted stakeholder interviews to determine equitable compensation for local communities impacted by government-mandated development projects and incorporate these costs into valuation reports.
 
--   Reinforced lessons through tutorials on GIS, Statistics, Land Economics and Financial Mathematics for students.
--   Assisted lecturers in facilitating tutorials and class quizzes, undertaking research projects and grading examination scripts of undergraduate students.
+• Boosted productivity by 10% by slashing down property measurement time to 30 minutes using a laser tape measure.
 
-# Institutional Service
+• Revitalized job site productivity by employing diplomacy and arbitration in addressing site conflicts.
 
-**Campus Affairs Manager, Ghana Sustainability Leadership Academy Jul 2021 – Aug 2024**
+![](images/logo1.png){width="160"}
+:::
 
--   Liaised with accomplished entrepreneurs for career mentorship of members of the Academy.
+::: {style="background-color: #f5f5f5"}
+**Junior Technical Advisor, German Development Cooperation, Ghana**
 
--   Led the organization of summer school to train over 300 college students on Leadership, Real Estate Data Science and Entrepreneurship.
+Oct 2022 – Dec 2024                                                     
 
--   Led a week-long career development program to prepare college students for a successful transition into the workforce.
+The Resilience Against Climate Change (REACH), is a project co-funded by the European Union and the German Federal Ministry for Economic Co-operation to address the increasing effects of climate change on the agricultural sector in Northern Ghana.
 
-**Human Rights Researcher, Broken Chalk, Amsterdam Feb 2023 – Aug 2024**
+My role as an intern at the GIZ EU REACH Project include:
 
--   Conducted research and wrote reports on educational challenges affecting the EMEA Region to raise awareness and draw the attention of non-governmental organizations to innovative solutions.
+• To manage a centralized database system of public and restricted documents for the Municipal and District Assemblies.
 
--   Published an article on Educational Challenges in Ghana.
-    Co-authored proposals for European Union programs on human rights violations in partnership with the senior director of the team who finalizes and submits the reports for press release.
+• Worked with GIS and IT specialists to digitize, create and maintain a database on farms under supervision.
 
-**Land Reclamation Project, Bosumtwi Forest Reserve, Kumasi, Ghana Jul 2023**
+• Collaborated with the project team to develop a digital library for Municipal and district assemblies in Northern Ghana to disseminate knowledge on the impact of climate change on food security.
 
--   Participated in a Land Reclamation Project at Bosumtwi Forest Reserve, Kumasi, contributing to the planting of over 3,000 seedlings to restore degraded landscapes.
+• Contributed to the development of an E-Learning platform, hosting courses on GIS and climate change, designed to educate agricultural extension officers and smallholder farmers on climate-smart agricultural practices
+
+• Planned and coordinated training sessions for planners on collecting, analyzing, and visualizing geo-referenced data.
+
+![](images/giz-logo.gif){width="181"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Assistant Planner (Intern), Physical Planning Department, Jirapa, Ghana**
+
+Sep 2021 – Nov 2021                                                     
+
+The Physical Planning Department is one of the departments of the Municipal Assembly and it is responsible for all physical settlements and spatial integration.
+The department makes sure that all physical buildings and spatial features are in proper order and that the necessary measures are put in place to ensure a well-organized spatial integration.
+
+My duties as an Assistant Planner include;
+
+• Assisted project team in the design of district spatial and settlement structure plans and thematic maps using QGIS and ArcGIS Pro for Jirapa Municipality.
+
+• Evaluated development permits and inspected development sites to ensure the implementation of approved planning policies regarding spatial planning within the municipality.
+
+• Evaluated development permits and inspected development sites to ensure that projects adhered to the municipal planning policies and guidelines.
+
+• Undertook administrative work and database management.
+
+• Assisted in the collection of site data using Handled GPS Units.
+
+![](images/Jirapa Municipal Assembly 6.jpg){width="219"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Verification Officer, Electoral Commission of Ghana**
+
+Dec 2020                                                     
+
+The Electoral Commission is one of the governance institutions provided under the 1992 constitution of Ghana.
+The Commission was set up purposely to manage the conduct of all public elections and Referenda, handle all matters directly related to the conduct of elections in the country.
+
+My role as a verification officer was to:
+
+• Verify the eligibility of valid voters to cast their votes in the December 2020 General Elections.
+
+• Ensure that non-eligible and invalid voters do not have access to the system to cast their votes.
+
+• Ensure peaceful General Elections at my assigned polling station.
+
+![](images/Electoral_Commission_of_Ghana_logo.jpg){width="114"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+# Awards and Honors
+:::
+
+::: {style="background-color: #f5f5f5"}
+Mastercard Foundation Scholarship Recipient.
+
+Aug 2024 – Present
+
+Wells Mountain Initiative Scholarship of \$1920 for undergraduate studies.
+
+Aug 2022
+:::
+
+::: {style="background-color: #f5f5f5"}
+# Institutional Service(Volunteering and Community Engagement)
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Campus Affairs Manager, Ghana Sustainability Leadership Academy**
+
+Jul 2021 – Aug 2024                                                     
+
+The Ghana Sustainability Leadership Academy is a youth-led organization which seeks to contribute to cultivating sustainable leadership qualities in students.
+The academy focuses on equipping students with sustainable entrepreneurship and employability skills, preparing them to be future leaders who can make a positive impact on society.
+
+As the General Secretary, I;
+
+• Liaised with accomplished entrepreneurs for career mentorship of members of the Academy.
+
+• Led a week-long career development program to prepare college students for a successful transition into the workforce.
+
+• Led the organization of summer school to train over 300 college students on Leadership, Real Estate Data Science and Entrepreneurship.
+
+![](images/1644587118071.jpg){width="97"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Secretary General, Educate Your Own \@ Wells Mountain Initiative, USA**
+
+Jan 2023 - Present                                                     
+
+Educate Your Own is a student-led fundraising campaign under a not-for-profit US-based organization called Wells Mountain Initiative.
+
+As the general secretary, my roles include;
+
+• I advocate for zero dropouts of students across Africa and beyond.
+
+• I lead fundraising events.
+I have led fundraising campaigns with a 5-man team to raise \$540 to support 5 students with \$100 each for their undergraduate studies.
+
+![](images/WMI_logo_stacked-e1533930619258.png){width="107"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Human Rights Researcher(Intern), Broken Chalk, Amsterdam**
+
+Feb 2023 - Feb 2024                                                     
+
+Broken Chalk is an Amsterdam-based non-governmental organization (NGO) committed to addressing human rights violations in the education sector.
+It is composed of a multinational team of dedicated human rights advocates who collaborate extensively on researching violations in every corner of the world
+
+As a research assistant, I:
+
+• Conducted research and wrote reports on educational challenges affecting the EMEA Region to raise awareness and draw the attention of non-governmental organizations to innovative solutions.
+
+• Published an article on Educational Challenges in Ghana.
+Take a look at the article [here](https://brokenchalk.org/educational-challenges-in-ghana/ "Educational Challenges in Ghana")
+
+• Co-authored proposals for European Union programs on human rights violations in partnership with the senior director of the team who finalizes and submits the reports for press release.
+
+![](images/logo.png){width="129"}
+:::
+
+::: {style="background-color: #f5f5f5"}
+# Languages
+:::
+
+::: {style="background-color: #f5f5f5"}
+• English(Professional)
+
+• French(basic)
+
+• Southern Dagaare(native)
+:::

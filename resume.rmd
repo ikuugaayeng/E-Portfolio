@@ -1,0 +1,73 @@
+---
+title: "Resume"
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+# Education
+
+-   The University of British Columbia Sep 2024 – Present
+
+    **Master of Geomatic for Environmental Management**
+
+-   Kwame Nkrumah University of Science and Technology (KNUST), Ghana Sep 2019 – Nov 2023
+
+    Bachelor of Science in Land Economy\
+    First Class Honors
+
+# Publications
+
+Ayitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana.
+American Real Estate Society (Paper Accepted for presentation at the forthcoming American Real Estate Society Conference in March 2024)
+
+*Peer-reviewed publications:*
+
+-   List any peer-reviewed publications here.
+
+*Reports:*
+
+-   List any non-peer reviewed materials you'd like to share here.
+
+# Conferences & Talks
+
+*Invited Talks*
+
+-   If you've been invited to speak in a professional setting, list that here.
+
+*Conference Presentations*
+
+-   If the presentation was at a conference, list them here.
+
+# Awards & Honors
+
+-   Mastercard Foundation Scholarship Recipient. Aug 2024 – Present
+-   Wells Mountain Initiative Scholarship of \$1920 for undergraduate studies. Aug 2022
+
+# Teaching Assistantships
+
+**Teaching and Research Assistant, Department of Land Economy, KNUST Nov 2023 – Aug 2024**
+
+-   Reinforced lessons through tutorials on GIS, Statistics, Land Economics and Financial Mathematics for students.
+-   Assisted lecturers in facilitating tutorials and class quizzes, undertaking research projects and grading examination scripts of undergraduate students.
+
+# Institutional Service
+
+**Campus Affairs Manager, Ghana Sustainability Leadership Academy Jul 2021 – Aug 2024**
+
+-   Liaised with accomplished entrepreneurs for career mentorship of members of the Academy.
+
+-   Led the organization of summer school to train over 300 college students on Leadership, Real Estate Data Science and Entrepreneurship.
+
+-   Led a week-long career development program to prepare college students for a successful transition into the workforce.
+
+**Human Rights Researcher, Broken Chalk, Amsterdam Feb 2023 – Aug 2024**
+
+-   Conducted research and wrote reports on educational challenges affecting the EMEA Region to raise awareness and draw the attention of non-governmental organizations to innovative solutions.
+
+-   Published an article on Educational Challenges in Ghana.
+    Co-authored proposals for European Union programs on human rights violations in partnership with the senior director of the team who finalizes and submits the reports for press release.
+
+**Land Reclamation Project, Bosumtwi Forest Reserve, Kumasi, Ghana Jul 2023**
+
+-   Participated in a Land Reclamation Project at Bosumtwi Forest Reserve, Kumasi, contributing to the planting of over 3,000 seedlings to restore degraded landscapes.
