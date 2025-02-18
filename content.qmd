@@ -1,12 +1,119 @@
 ---
-title: "Project & Deliverables"
+title: "Projects and Deliverables"
 format: html
 editor: visual
 ---
 
-# Project 1 - Capstone Deliverables
+------------------------------------------------------------------------
+
+**Key projects from my Master's degree and undergraduate studies**
+
+# FCOR 599 - Deliverables
+
+::: {style="background-color: #f5f5f5"}
+![The map shows the shade patterns estimated from the digital surface model for various times on the 21st day of August 2024. The map shows the direction and length of the shadows/shades from trees on the 21st day of August 2024 at 18: 00 PM.](/Shade%20patterns%20estimated%20from%20the%20digital%20surface%20model%20for%20various%20times%20on%20the%2021st%20day%20of%20August%202024.jpg)
+:::
+
+::: {style="background-color: #f5f5f5"}
+## Geographic Information System for Environemntal Management
+
+This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.
+
+:::
+
+::: {style="background-color: #f5f5f5"}
+
+**Some selected labs from "Geographic Information System for Environmental Management"**
+:::
+
+
+::: {style="background-color: #f5f5f5"}
+
+**Raster and Least Cost Path Analysis**
+:::
+In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.
+
+The map below was designed to illustrated the least cost path travelled by the bears in the region.
+
+
+![Least Cost Path](/Least Cost Path.jpg) 
+
+
+
+
+::: {style="background-color: #f5f5f5"}
+
+**Suitability and Overlay Analysis: Marine Spatial Planning**
+:::
+In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.
+
+The map below was designed to illustrate the recommended the most suitable sanctuary location in the region.
+
+
+![Suitable Analysis](\images\Suitability Analysis of the Top Five Santuary_page-0001.jpg) 
+
+
+
+
+::: {style="background-color: #f5f5f5"}
+
+**Geocoding**
+:::
+In this lab, I conducted a geocoding exercise to translate address data into spatial coordinates using GIS tools. Geocoding is a critical component of geospatial analysis, especially in cases where the spatial locations of addresses are necessary for mapping and further analysis. The process involved inputting address data into a geocoding tool, and the tool then returned latitude and longitude values corresponding to each address. This lab allowed me to explore the practical application of geocoding in spatial data processing, helping to refine location-based datasets for use in further geospatial analysis.
+
+The map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.
+
+
+![Suitable Analysis](\images\Mapping Street Tree Density in Hasting - Sunrise Neighborhood_page-0001.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+::: {style="background-color: #f5f5f5"}
+## Undergraduate Project - Builders' Idea Challenge on Urban Planning
+
+
+
+::: {style="background-color: #f5f5f5"}
+
+**Building Environmentally Resilient and Energy Efficient Open Spaces **
+:::
+In this project, I designed public spaces with a focus on ecological sustainability and energy efficiency. I utilized innovative approaches to create spaces that contribute to carbon sequestration while providing opportunities for community-driven climate adaptation. By incorporating green infrastructure and nature-based solutions (NBS), the design aimed to enhance urban resilience, reduce environmental impacts, and improve overall community well-being, aligning with sustainable development principles.
+
+
+
+
+The map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.
+
+
+![Proposed Design(Bridge](\Proposed Design(Bridge).jpg)
+
+![Proposed Design for the Open Space](\Proposed Design.jpg)
+
+:::
+
+
+
+
+
+
+
 
 This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
+
 
 If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
 

@@ -1,7 +1,9 @@
 ---
 title: "Publications"
 ---
-
+::: {style="background-color: #f5f5f5"}
 *Peer-reviewed publications:*
 
-Ayitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana. American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024) 
+Ayitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana. American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024)
+
+:::

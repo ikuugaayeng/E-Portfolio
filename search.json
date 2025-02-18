@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your E-Portfolio",
+    "title": "About me",
     "section": "",
-    "text": "Hello and welcome to my portfolio,\nI earned my bachelor’s degree in Land Economy with a focus on law, economics and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nAfter my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.\nMy firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue the MGEM program at UBC Forestry. This program will equip me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.\nGenerally, my interests are the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures. My goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies at UBC to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management"
+    "text": "Welcome to my portfolio,\nI earned my bachelor’s degree in Land Economy with a focus on law, economics and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana.\nAfter my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.\nMy firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue the MGEM program at UBC Forestry. This program will equip me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.\nGenerally, my interests are the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures. My goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies at UBC to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management."
   },
   {
     "objectID": "resume.html",
@@ -30,29 +30,71 @@
   {
     "objectID": "content.html",
     "href": "content.html",
-    "title": "Project & Deliverables",
+    "title": "Projects and Deliverables",
     "section": "",
-    "text": "This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen (“On this page”).\nIf you’ve produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.\n\n\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\n\n\n\n\n\n\n\n\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){ ndvi &lt;- (nir-red)/(nir+red) return(ndvi) }\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir.astype(float)-red.astype(float))/(nir.astype(float)+red.astype(float))\n  return(ndvi)\n\n\n\n\n\n\nYou can also provide a frame linking to external websites. For example, here is a link to a Google Earth Engine application I developed. The full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "text": "Key projects from my Master’s degree and undergraduate studies"
   },
   {
     "objectID": "content.html#leaflet",
     "href": "content.html#leaflet",
-    "title": "Project & Deliverables",
-    "section": "",
-    "text": "Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
+    "title": "Projects and Deliverables",
+    "section": "Leaflet",
+    "text": "Leaflet\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here."
   },
   {
     "objectID": "content.html#code-snippets",
     "href": "content.html#code-snippets",
-    "title": "Project & Deliverables",
-    "section": "",
-    "text": "Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){ ndvi &lt;- (nir-red)/(nir+red) return(ndvi) }\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir.astype(float)-red.astype(float))/(nir.astype(float)+red.astype(float))\n  return(ndvi)"
+    "title": "Projects and Deliverables",
+    "section": "Code Snippets",
+    "text": "Code Snippets\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){ ndvi &lt;- (nir-red)/(nir+red) return(ndvi) }\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir.astype(float)-red.astype(float))/(nir.astype(float)+red.astype(float))\n  return(ndvi)"
   },
   {
     "objectID": "content.html#external-links",
     "href": "content.html#external-links",
-    "title": "Project & Deliverables",
-    "section": "",
-    "text": "You can also provide a frame linking to external websites. For example, here is a link to a Google Earth Engine application I developed. The full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+    "title": "Projects and Deliverables",
+    "section": "External links",
+    "text": "External links\nYou can also provide a frame linking to external websites. For example, here is a link to a Google Earth Engine application I developed. The full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
+  },
+  {
+    "objectID": "content.html#geographic-information-system-for-environmental-management",
+    "href": "content.html#geographic-information-system-for-environmental-management",
+    "title": "Projects and Deliverables",
+    "section": "GEOGRAPHIC INFORMATION SYSTEM FOR ENVIRONMENTAL MANAGEMENT",
+    "text": "GEOGRAPHIC INFORMATION SYSTEM FOR ENVIRONMENTAL MANAGEMENT\nIn this course,"
+  },
+  {
+    "objectID": "content.html#geographic-information-system-for-environemntal-management",
+    "href": "content.html#geographic-information-system-for-environemntal-management",
+    "title": "Projects and Deliverables",
+    "section": "Geographic Information System for Environemntal Management",
+    "text": "Geographic Information System for Environemntal Management\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
+  },
+  {
+    "objectID": "content.html#geographic-information-system-for-environemntal-management-1",
+    "href": "content.html#geographic-information-system-for-environemntal-management-1",
+    "title": "Projects and Deliverables",
+    "section": "Geographic Information System for Environemntal Management",
+    "text": "Geographic Information System for Environemntal Management\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
+  },
+  {
+    "objectID": "content.html#building-environmentally-resilient-and-energy-efficient-open-spaces",
+    "href": "content.html#building-environmentally-resilient-and-energy-efficient-open-spaces",
+    "title": "Projects and Deliverables",
+    "section": "Building Environmentally Resilient and Energy Efficient Open Spaces",
+    "text": "Building Environmentally Resilient and Energy Efficient Open Spaces\n#Remote\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
+  },
+  {
+    "objectID": "content.html#undergraduate-project---builders-idea-challenge",
+    "href": "content.html#undergraduate-project---builders-idea-challenge",
+    "title": "Projects and Deliverables",
+    "section": "Undergraduate Project - Builders’ Idea Challenge",
+    "text": "Undergraduate Project - Builders’ Idea Challenge\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces \n\nIn this project, I designed public spaces with a focus on ecological sustainability and energy efficiency. I utilized innovative approaches to create spaces that contribute to carbon sequestration while providing opportunities for community-driven climate adaptation. By incorporating green infrastructure and nature-based solutions (NBS), the design aimed to enhance urban resilience, reduce environmental impacts, and improve overall community well-being, aligning with sustainable development principles.\nThe map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design for the Open Space"
+  },
+  {
+    "objectID": "content.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
+    "href": "content.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
+    "title": "Projects and Deliverables",
+    "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
+    "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces \n\nIn this project, I designed public spaces with a focus on ecological sustainability and energy efficiency. I utilized innovative approaches to create spaces that contribute to carbon sequestration while providing opportunities for community-driven climate adaptation. By incorporating green infrastructure and nature-based solutions (NBS), the design aimed to enhance urban resilience, reduce environmental impacts, and improve overall community well-being, aligning with sustainable development principles.\nThe map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design for the Open Space"
   }
 ]
