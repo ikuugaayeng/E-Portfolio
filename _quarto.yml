@@ -17,7 +17,7 @@ website:
       - text: Content & Deliverables
         menu: 
           - href: gis.qmd #update this with actual qmd
-            text: name of dropdown
+            text: GIS
           - href: rs.qmd # update
             text: Remote Sensing
 

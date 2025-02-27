@@ -1,0 +1,64 @@
+---
+title: "GIS"
+format: html
+editor: visual
+---
+
+
+::: {style="background-color: #f5f5f5"}
+## Geographic Information System for Environemntal Management
+
+This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Some selected labs from "Geographic Information System for Environmental Management"**
+:::
+
+::: {style="background-color: #f5f5f5"}
+**Raster and Least Cost Path Analysis**
+:::
+
+In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.
+
+The map below was designed to illustrated the least cost path travelled by the bears in the region.
+
+![Least Cost Path](/Least%20Cost%20Path.jpg)
+
+::: {style="background-color: #f5f5f5"}
+**Suitability and Overlay Analysis: Marine Spatial Planning**
+:::
+
+In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.
+
+The map below was designed to illustrate the recommended the most suitable sanctuary location in the region.
+
+![Suitable Analysis](/images/Suitability%20Analysis%20of%20the%20Top%20Five%20Santuary_page-0001.jpg)
+
+::: {style="background-color: #f5f5f5"}
+**Geocoding**
+:::
+
+In this lab, I conducted a geocoding exercise to translate address data into spatial coordinates using GIS tools. Geocoding is a critical component of geospatial analysis, especially in cases where the spatial locations of addresses are necessary for mapping and further analysis. The process involved inputting address data into a geocoding tool, and the tool then returned latitude and longitude values corresponding to each address. This lab allowed me to explore the practical application of geocoding in spatial data processing, helping to refine location-based datasets for use in further geospatial analysis.
+
+The map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.
+
+![Suitable Analysis](/images/Mapping%20Street%20Tree%20Density%20in%20Hasting%20-%20Sunrise%20Neighborhood_page-0001.jpg)
+
+::: {style="background-color: #f5f5f5"}
+## Undergraduate Project - Builders' Idea Challenge on Urban Planning
+
+::: {style="background-color: #f5f5f5"}
+**Building Environmentally Resilient and Energy Efficient Open Spaces**
+:::
+
+In this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.
+
+The map below was designed to show the area for the project
+
+![Proposed Design(Bridge](/Map%20of%20the%20site.jpg)
+
+![Proposed Design(Bridge)](/Proposed%20Design(Bridge).jpg)
+
+![Proposed Design for the Open Space](/Proposed%20Design.jpg)
+:::

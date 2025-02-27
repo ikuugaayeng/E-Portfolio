@@ -96,5 +96,40 @@
     "title": "Projects and Deliverables",
     "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
     "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces\n\nIn this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\nThe map below was designed to show the area for the project\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design(Bridge)\n\n\n\n\n\nProposed Design for the Open Space"
+  },
+  {
+    "objectID": "gis.html",
+    "href": "gis.html",
+    "title": "GIS",
+    "section": "",
+    "text": "This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.\nIn this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.\nThe map below was designed to illustrated the least cost path travelled by the bears in the region.\nIn this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.\nThe map below was designed to illustrate the recommended the most suitable sanctuary location in the region.\nIn this lab, I conducted a geocoding exercise to translate address data into spatial coordinates using GIS tools. Geocoding is a critical component of geospatial analysis, especially in cases where the spatial locations of addresses are necessary for mapping and further analysis. The process involved inputting address data into a geocoding tool, and the tool then returned latitude and longitude values corresponding to each address. This lab allowed me to explore the practical application of geocoding in spatial data processing, helping to refine location-based datasets for use in further geospatial analysis.\nThe map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density."
+  },
+  {
+    "objectID": "gis.html#quarto",
+    "href": "gis.html#quarto",
+    "title": "GIS",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "gis.html#running-code",
+    "href": "gis.html#running-code",
+    "title": "GIS",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "gis.html#geographic-information-system-for-environemntal-management",
+    "href": "gis.html#geographic-information-system-for-environemntal-management",
+    "title": "GIS",
+    "section": "",
+    "text": "This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
+  },
+  {
+    "objectID": "gis.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
+    "href": "gis.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
+    "title": "GIS",
+    "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
+    "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces\n\nIn this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\nThe map below was designed to show the area for the project\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design(Bridge)\n\n\n\n\n\nProposed Design for the Open Space"
   }
 ]
