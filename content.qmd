@@ -18,149 +18,74 @@ editor: visual
 ## Geographic Information System for Environemntal Management
 
 This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.
-
 :::
 
 ::: {style="background-color: #f5f5f5"}
-
 **Some selected labs from "Geographic Information System for Environmental Management"**
 :::
 
-
 ::: {style="background-color: #f5f5f5"}
-
 **Raster and Least Cost Path Analysis**
 :::
+
 In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.
 
 The map below was designed to illustrated the least cost path travelled by the bears in the region.
 
-
-![Least Cost Path](/Least Cost Path.jpg) 
-
-
-
+![Least Cost Path](/Least%20Cost%20Path.jpg)
 
 ::: {style="background-color: #f5f5f5"}
-
 **Suitability and Overlay Analysis: Marine Spatial Planning**
 :::
+
 In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.
 
 The map below was designed to illustrate the recommended the most suitable sanctuary location in the region.
 
-
-![Suitable Analysis](\images\Suitability Analysis of the Top Five Santuary_page-0001.jpg) 
-
-
-
+![Suitable Analysis](/images/Suitability%20Analysis%20of%20the%20Top%20Five%20Santuary_page-0001.jpg)
 
 ::: {style="background-color: #f5f5f5"}
-
 **Geocoding**
 :::
+
 In this lab, I conducted a geocoding exercise to translate address data into spatial coordinates using GIS tools. Geocoding is a critical component of geospatial analysis, especially in cases where the spatial locations of addresses are necessary for mapping and further analysis. The process involved inputting address data into a geocoding tool, and the tool then returned latitude and longitude values corresponding to each address. This lab allowed me to explore the practical application of geocoding in spatial data processing, helping to refine location-based datasets for use in further geospatial analysis.
 
 The map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.
 
-
-![Suitable Analysis](\images\Mapping Street Tree Density in Hasting - Sunrise Neighborhood_page-0001.jpg) 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Suitable Analysis](/images/Mapping%20Street%20Tree%20Density%20in%20Hasting%20-%20Sunrise%20Neighborhood_page-0001.jpg)
 
 ::: {style="background-color: #f5f5f5"}
 ## Undergraduate Project - Builders' Idea Challenge on Urban Planning
 
-
-
 ::: {style="background-color: #f5f5f5"}
-
-**Building Environmentally Resilient and Energy Efficient Open Spaces **
-:::
-In this project, I designed public spaces with a focus on ecological sustainability and energy efficiency. I utilized innovative approaches to create spaces that contribute to carbon sequestration while providing opportunities for community-driven climate adaptation. By incorporating green infrastructure and nature-based solutions (NBS), the design aimed to enhance urban resilience, reduce environmental impacts, and improve overall community well-being, aligning with sustainable development principles.
-
-
-
-
-The map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.
-
-
-![Proposed Design(Bridge](\Proposed Design(Bridge).jpg)
-
-![Proposed Design for the Open Space](\Proposed Design.jpg)
-
+**Building Environmentally Resilient and Energy Efficient Open Spaces**
 :::
 
+In this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.
 
+The map below was designed to show the area for the project
 
+![Proposed Design(Bridge](/Map%20of%20the%20site.jpg)
 
+![Proposed Design(Bridge)](/Proposed%20Design(Bridge).jpg)
 
-
-
-
-This is a sample page where you can archive project deliverables. Every header you use will correspond to a tab in the legend - shown on the right-hand side of your screen ("On this page").
-
-
-If you've produced any GIS layers for your 599 project, this may be a good place to share them as interactive maps through leaflet. Alternatively, you can upload high-res figures showing correlations, box-plots, etc. from your report here, and provide a brief overview of key project results. If you have written some useful functions, you may also want to share those here to demonstrate proficiency in particular coding languages or synergies between notable coding packages.
+![Proposed Design for the Open Space](/Proposed%20Design.jpg)
+:::
 
 ## Leaflet
 
 Sample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page [here](https://ubc-mgem-fcor599.github.io/FCOR-599-Workshops/Interactive_Maps/leaflet.html).
 
-```{r leaflet, include = FALSE}
-library(dplyr); library(leaflet)
-
+```{r leaflet}
+library(dplyr); library(leaflet);library(terra)
+shade <- rast("C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif")
 m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
-  addScaleBar(position = c("bottomleft")) %>%
-  setView(-123.1207, 49.2827, zoom = 11)
-
-```
-
-```{r map, echo=FALSE}
+  addRasterImage(shade) %>% 
+  addScaleBar(position = c("bottomleft"))
 m
 ```
 
-## Code Snippets
+```{r map, echo=FALSE}
 
-Sample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a 'tabset' in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let's showcase a function for calculating NDVI in R and Python.
-
-::: {.panel-tabset group="language"}
-## R
-
-``` (.r)
-calc_ndvi <- function(nir, red){ ndvi <- (nir-red)/(nir+red) return(ndvi) }
-```
-
-## Python
-
-``` (.python)
-def calc_ndvi(nir, red): 
-  ndvi = (nir.astype(float)-red.astype(float))/(nir.astype(float)+red.astype(float))
-  return(ndvi)
-```
-:::
-
-## External links
-
-You can also provide a frame linking to external websites. For example, here is a link to a Google Earth Engine application I developed. The full-screen GEE application is available [here](https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool) in case you're interested.
-
-(To use the GEE tool, navigate to any city you'd like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)
-
-```{=html}
-<iframe width="900" height="700" src="https://ee-melserramon.projects.earthengine.app/view/thermal-analysis-tool" title="Webpage example"></iframe>
 ```

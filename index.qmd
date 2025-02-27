@@ -1,6 +1,6 @@
 ---
-title: "About me"
-image: images/headshot.jpg
+title: "Your E-Portfolio"
+image: images/headshot1.jpg
 about:
   template: trestles
   image-width: 20em
@@ -19,8 +19,7 @@ about:
       href: mailto:isaac020@student.ubc.ca
 ---
 
-::: {style="background-color: #f5f5f5"}
-**Welcome to my portfolio,**
+**About me**
 
 I earned my bachelor's degree in Land Economy with a focus on law, economics and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana.
 
@@ -28,5 +27,4 @@ After my undergraduate studies, I worked as a Teaching and Research Assistant at
 
 My firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue the MGEM program at UBC Forestry. This program will equip me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.
 
-Generally, my interests are the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures. My goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies at UBC to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management.
-:::
+Generally, my interests are the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures. My goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies at UBC to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management
