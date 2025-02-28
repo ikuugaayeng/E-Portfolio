@@ -19,12 +19,13 @@ I gained a strong foundation in the application of landscape ecology tools, enab
 :::
 
 ::: {style="background-color: #f5f5f5"}
-###Landscape Change Modelling
+### Landscape Change Modelling
 :::
 
+::: {style="background-color: #f5f5f5"}
 In this lab, I worked with Landsat imagery from the Oregon Cascades to analyze changes in forest cover types over time using a Markov model. The aim was to understand how logging has impacted old-growth forests and predict future landscape changes based on past patterns. I built a Markov model to simulate transitions between different forest cover types using transition matrices constructed from cover type data for the years 1972, 1984, and 1991. The model helped predict the future state of the forest, taking into account transition probabilities and the proportions of cover types over time. I also tested alternative management scenarios, such as reducing logging rates, to see how such changes could affect forest composition in the long term. Through this lab, I developed key skills in using Markov models to study landscape dynamics, analyzed historical forest cover changes, and explored the potential impact of forest management strategies.
 
 Based on the module, the plot below shows a management scenario that allows 30% of old growth forest to be retained at the end of the century
-
-![Least Cost Path](images/management.png)
+:::
+![plot](images/management.png)
 

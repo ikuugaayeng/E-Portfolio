@@ -13,11 +13,11 @@ Through this course, I developed skills in designing GIS databases, managing fie
 :::
 
 ::: {style="background-color: #f5f5f5"}
-## Some selected labs from this course**
+## Some selected labs from this course
 :::
 
 ::: {style="background-color: #f5f5f5"}
-###Raster and Least Cost Path Analysis**
+### Raster and Least Cost Path Analysis
 :::
 
 In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations.
@@ -28,7 +28,7 @@ The map below was designed to illustrated the least cost path traveled by the be
 ![Least Cost Path](/Least%20Cost%20Path.jpg)
 
 ::: {style="background-color: #f5f5f5"}
-###Suitability and Overlay Analysis: Marine Spatial Planning**
+### Suitability and Overlay Analysis: Marine Spatial Planning
 :::
 
 In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic.
@@ -39,7 +39,7 @@ The map below was designed to illustrate the recommended the most suitable sanct
 ![Suitable Analysis](/images/Suitability%20Analysis%20of%20the%20Top%20Five%20Santuary_page-0001.jpg)
 
 ::: {style="background-color: #f5f5f5"}
-###Spatial Interpolation and Visualization of LiDAR**
+### Spatial Interpolation and Visualization of LiDAR
 :::
 
 In this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest (MKRF) to create Digital Elevation Models (DEMs) using different spatial interpolation methods. Spatial interpolation is essential for transforming discrete LiDAR point cloud data into continuous surfaces, enabling detailed terrain analysis. I explored various interpolation techniques, assessed their strengths and weaknesses, and compared the resulting DEMs to understand their differences. Additionally, I visualized point clouds and terrain models using GIS tools like QGIS and ArcGIS Pro.
@@ -50,5 +50,3 @@ The panel of maps above show a comparison of DEMs generated using IDW, Natural N
 
 
 ![Panel Maps](images\Layout.jpg)
-
-::: {style="background-color: #f5f5f5"}

@@ -100,22 +100,18 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./content.html"> 
-<span class="menu-text">Content &amp; Deliverables</span></a>
-  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-content--deliverables" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Content &amp; Deliverables</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-content--deliverables">    
         <li>
-    <a class="dropdown-item" href="./Capstone project.html">
+    <a class="dropdown-item" href="./Capstone.html">
  <span class="dropdown-text">Capstone Project</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./gis.html">
- <span class="dropdown-text">Geographic Information System(GIS)</span></a>
+ <span class="dropdown-text">Geographic Information System</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./remote sensing.html">
@@ -147,7 +143,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section"></a></li>
+  <li><a href="#advanced-remote-sensing" id="toc-advanced-remote-sensing" class="nav-link active" data-scroll-target="#advanced-remote-sensing">Advanced Remote Sensing</a></li>
+  <li><a href="#some-selected-labs-from-this-course" id="toc-some-selected-labs-from-this-course" class="nav-link" data-scroll-target="#some-selected-labs-from-this-course">Some selected labs from this course</a></li>
+  <li><a href="#individual-tree-detection-using-lidr" id="toc-individual-tree-detection-using-lidr" class="nav-link" data-scroll-target="#individual-tree-detection-using-lidr">Individual tree detection using lidR</a></li>
+  <li><a href="#visualizing-lidar-in-3d" id="toc-visualizing-lidar-in-3d" class="nav-link" data-scroll-target="#visualizing-lidar-in-3d">Visualizing LiDAR in 3D</a></li>
   </ul>
 </nav>
     </div>
@@ -173,11 +172,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="section" class="level2">
-<h2 class="anchored" data-anchor-id="section"></h2>
-
-
+<section id="advanced-remote-sensing" class="level1" style="background-color: #f5f5f5">
+<h1>Advanced Remote Sensing</h1>
+<p>In this course, I was introduced to remote sensing techniques for gathering spatial information about the Earth’s surface, focusing on forestry, vegetation, and ecosystem management. I learned the fundamentals of spatial data capture, electromagnetic radiation, and the spectral properties of natural and manufactured materials. The course covered key sensor systems, including airborne and satellite sensors, and advanced image analysis techniques like LiDAR and RADAR.</p>
+<p>I also gained hands-on experience with digital image processing, including image rectification and classification. Additionally, I was introduced to R programming, focusing on processing spatial data and remote sensing imagery. I developed skills in creating tailored workflows, conducting spatial analysis, and generating scientific graphics. Through this course, I enhanced my abilities in sensor systems, image processing, and spatial data analysis, while building confidence in using software like ENVI, QGIS, and R to solve data-intensive problems.</p>
+<p>This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.</p>
 </section>
+<section id="some-selected-labs-from-this-course" class="level2" style="background-color: #f5f5f5">
+<h2 class="anchored" data-anchor-id="some-selected-labs-from-this-course">Some selected labs from this course</h2>
+</section>
+<section id="individual-tree-detection-using-lidr" class="level2" style="background-color: #f5f5f5">
+<h2 class="anchored" data-anchor-id="individual-tree-detection-using-lidr">Individual tree detection using lidR</h2>
+</section>
+<p>In this lab, I worked with LiDAR data from the Malcolm Knapp Research Forest (MKRF) to detect individual trees using two methods: point cloud data and a canopy height model (CHM). The first part involved extracting point clouds from four plot locations and performing segmentation with the <code>segment_trees</code> function in the <code>lidR</code> package. I applied the li2012 algorithm to detect trees in a clearcut plot (Plot 1), focusing on the challenges of setting adaptive thresholds and using the <code>speed_up</code> parameter for efficiency. The goal was to segment individual trees by adjusting parameters such as <code>dt1</code>, <code>dt2</code>, and <code>Zu</code>, as suggested by Li et al.&nbsp;(2012). In the second part, I used the CHM-based Dalponte and Coomes 2016 algorithm to detect trees more accurately by analyzing height models and tree top locations. I created pit-free CHMs and located tree tops for segmentation, exploring different spatial resolutions to assess accuracy. I compared the outcomes from both methods and reflected on the best resolution for future analysis. Through this lab, I gained hands-on experience with advanced LiDAR tree segmentation techniques and developed a deeper understanding of how to apply different algorithms for forest structure analysis.</p>
+<p>Some DEMS, CHMs and 3D visualization from LiDAR are shown below</p>
+<p><img src="images/DEM.jpeg" class="img-fluid" alt="DEM"> <img src="images/CHM.png" class="img-fluid" alt="CHM"> <img src="images/TreeDetection.png" class="img-fluid" alt="DEM"></p>
+<section id="visualizing-lidar-in-3d" class="level3" style="background-color: #f5f5f5">
+<h3 class="anchored" data-anchor-id="visualizing-lidar-in-3d">Visualizing LiDAR in 3D</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lidarin3d.png" class="img-fluid figure-img"></p>
+<figcaption>3D LiDAR Visualisations</figcaption>
+</figure>
+</div>
+</section>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
