@@ -6,35 +6,33 @@ editor:
 ---
 
 ::: {style="background-color: #f5f5f5"}
-# Education
+### Education
 :::
 
 ::: {style="background-color: #f5f5f5"}
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Master of Geomatic for Environmental Management**                                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                                                                                                                           |
-| The University of British Columbia                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                           |
-| Sep 2024 – Present                                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                           |
-| Vancouver, Canada                                                                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                                                                           |
-| Master of Geomatics for Environmental Management is a professional master’s degree program that provides essential training in the use and application of geospatial tools used to plan, develop, manage, and evaluate programs to protect and regulate natural habitats and renewable natural resources. |
-|                                                                                                                                                                                                                                                                                                           |
-| \                                                                                                                                                                                                                                                                                                         |
-| Some of the top and relevant modules in this master's degree include:\                                                                                                                                                                                                                                    |
-| • Remote Sensing for Ecosystem Management                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                           |
-| • Geospatial Data Analysis                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                                                                                                                           |
-| • Geographic Information Systems for Forestry and Conservation                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                           |
-| • Landscape Ecology and Management                                                                                                                                                                                                                                                                        |
-|                                                                                                                                                                                                                                                                                                           |
-| • Linear Regression Models and Introduction to Spatial Statistics                                                                                                                                                                                                                                         |
-|                                                                                                                                                                                                                                                                                                           |
-| ![](images/UBC%20LOGO.JPG){width="240"}                                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Master of Geomatics for Environmental Management**                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                            |
+| The University of British Columbia                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                            |
+| Sep 2024 – Present                                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                            |
+| Vancouver, Canada                                                                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                            |
+| Master of Geomatics for Environmental Management is a professional master’s degree program that provides essential training in the use and application of geospatial tools used to plan, develop, manage, and evaluate programs to protect and regulate natural habitats and renewable natural resources.\ |
+| Some of the top and relevant modules in this master's degree include:\                                                                                                                                                                                                                                     |
+| • Remote Sensing for Ecosystem Management                                                                                                                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                            |
+| • Geospatial Data Analysis                                                                                                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                                                                            |
+| • Geographic Information Systems for Forestry and Conservation                                                                                                                                                                                                                                             |
+|                                                                                                                                                                                                                                                                                                            |
+| • Landscape Ecology and Management                                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                            |
+| • Linear Regression Models and Introduction to Spatial Statistics                                                                                                                                                                                                                                          |
+|                                                                                                                                                                                                                                                                                                            |
+| ![](images/UBC%20LOGO.JPG){width="132" height="28"}                                                                                                                                                                                                                                                        |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 **Bachelor of Science in Land Economy First Class Honors**
 
@@ -61,12 +59,12 @@ Some relevant modules include :
 • Property Valuation and Appraisal\
 • Law relating to Estate Management
 
-![](images/knust-logo-964D7E2BF7-seeklogo.com.png){width="173"}
+![](images/knust-logo-964D7E2BF7-seeklogo.com.png){width="86"}
 :::
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Publications
+### Publications
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -75,7 +73,7 @@ American Real Estate Society (Paper Accepted for presentation at the American Re
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Technical Proficiency
+### Technical Proficiency
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -83,11 +81,11 @@ American Real Estate Society (Paper Accepted for presentation at the American Re
 
 • GIS Software: ArcGIS Pro, QGIS
 
-• MS Office Applications: Microsoft Office (Word, Excel, PowerPoint, SharePoint)
+• Office Applications:Microsoft Suite (Excel, Word, PowerPoint, Outlook), SharePoint, Skype for Business
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Professional Work Experience
+### Professional Work Experience
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -99,7 +97,7 @@ Nov 2023 – Aug 2024                             �
 
 • Assisted lecturers in facilitating tutorials and class quizzes, undertaking research projects and grading examination scripts of undergraduate students.
 
-![](images/knust-logo-964D7E2BF7-seeklogo.com-01.png){width="170"}
+![](images/knust-logo-964D7E2BF7-seeklogo.com-01.png){width="90" height="40"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -113,7 +111,7 @@ Nov 2023 – Aug 2024                             �
 
 • Revitalized job site productivity by employing diplomacy and arbitration in addressing site conflicts.
 
-![](images/logo1.png){width="160"}
+![](images/logo1.png){width="103"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -135,7 +133,7 @@ My role as an intern at the GIZ EU REACH Project include:
 
 • Planned and coordinated training sessions for planners on collecting, analyzing, and visualizing geo-referenced data.
 
-![](images/giz-logo.gif){width="181"}
+![](images/giz-logo.gif){width="106"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -158,7 +156,7 @@ My duties as an Assistant Planner include;
 
 • Assisted in the collection of site data using Handled GPS Units.
 
-![](images/Jirapa%20Municipal%20Assembly%206.jpg){width="219"}
+![](images/Jirapa%20Municipal%20Assembly%206.jpg){width="141"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -177,11 +175,11 @@ My role as a verification officer was to:
 
 • Ensure peaceful General Elections at my assigned polling station.
 
-![](images/Electoral_Commission_of_Ghana_logo.jpg){width="114"}
+![](images/Electoral_Commission_of_Ghana_logo.jpg){width="64"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Awards and Honors
+### Awards and Honors
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -195,7 +193,7 @@ Aug 2022
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Institutional Service(Volunteering and Community Engagement)
+### Volunteering Experience
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -214,7 +212,7 @@ As the General Secretary, I;
 
 • Led the organization of summer school to train over 300 college students on Leadership, Real Estate Data Science and Entrepreneurship.
 
-![](images/1644587118071.jpg){width="97"}
+![](images/1644587118071.jpg){width="65"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -231,7 +229,7 @@ As the general secretary, my roles include;
 • I lead fundraising events.
 I have led fundraising campaigns with a 5-man team to raise \$540 to support 5 students with \$100 each for their undergraduate studies.
 
-![](images/WMI_logo_stacked-e1533930619258.png){width="107"}
+![](images/WMI_logo_stacked-e1533930619258.png){width="63"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -251,11 +249,11 @@ Take a look at the article [here](https://brokenchalk.org/educational-challenges
 
 • Co-authored proposals for European Union programs on human rights violations in partnership with the senior director of the team who finalizes and submits the reports for press release.
 
-![](images/logo.png){width="129"}
+![](images/logo.png){width="79" height="57"}
 :::
 
 ::: {style="background-color: #f5f5f5"}
-# Languages
+### Languages
 :::
 
 ::: {style="background-color: #f5f5f5"}

@@ -1,9 +1,10 @@
 ---
-title: "Your E-Portfolio"
-image: images/headshot1.jpg
+title: "Isaac Kuugaayeng"
+image: images/headshotII.jpg
 about:
-  template: trestles
+  template: jolla
   image-width: 20em
+  image-shape: round
   links: 
     - icon: linkedin
       text: LinkedIn
@@ -19,12 +20,8 @@ about:
       href: mailto:isaac020@student.ubc.ca
 ---
 
-**About me**
+I earned my bachelor's degree in Land Economy with a focus on law, economics, finance and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. After my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project, which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.
 
-I earned my bachelor's degree in Land Economy with a focus on law, economics and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana.
+My firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue a professional Master's degree in Geomatics for Environmental Management at the University of British Columbia(UBC). This program equipped me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.
 
-After my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.
-
-My firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue the MGEM program at UBC Forestry. This program will equip me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.
-
-Generally, my interests are the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures. My goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies at UBC to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management
+Currently, my goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management. I have an interest in the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures.

@@ -12,14 +12,19 @@ website:
         text: Resume
       - href: publications.qmd
         text: Publications
-      - href: content.qmd
-        text: Content & Deliverables
       - text: Content & Deliverables
         menu: 
-          - href: gis.qmd #update this with actual qmd
-            text: GIS
-          - href: rs.qmd # update
+          - href: Capstone.qmd
+            text: Capstone Project
+          - href: gis.qmd
+            text: Geographic Information System
+          - href: remote sensing.qmd
             text: Remote Sensing
+          - href: Landscape.qmd
+            text: Landscape Ecology
+          - href: Undergraduate.qmd
+            text: Urban Planning
+            
 
 format:
   html:

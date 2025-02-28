@@ -1,0 +1,30 @@
+---
+title: "Landscape Ecology"
+format: html
+editor: visual
+---
+
+::: {style="background-color: #f5f5f5"}
+# Landscape Ecology and Management
+
+This course provided me with an in-depth exploration of landscape ecology, focusing on spatial patterning, heterogeneity, and dynamics over large regions. Lectures covered essential concepts like spatial heterogeneity, scale, and landscape connectivity. Lab sessions involved working with real-world data to quantify spatial patterns using software such as Fragstats. I learned how to calculate, interpret, and apply various metrics to assess landscape connectivity and spatial resilience.
+
+Throughout the course, I developed the skills to create spatial models and apply landscape ecology principles to solve environmental management issues. One of the most valuable aspects of the course was learning how patch-level decisions influence broader landscape dynamics and appreciating the relationship between spatial resilience and landscape changes in different systems, such as forests, urban areas, and agricultural landscapes.
+
+I gained a strong foundation in the application of landscape ecology tools, enabling me to approach natural resource management challenges with a deeper understanding of spatial patterns and their ecological significance.
+:::
+
+::: {style="background-color: #f5f5f5"}
+## Some selected labs from this course
+:::
+
+::: {style="background-color: #f5f5f5"}
+###Landscape Change Modelling
+:::
+
+In this lab, I worked with Landsat imagery from the Oregon Cascades to analyze changes in forest cover types over time using a Markov model. The aim was to understand how logging has impacted old-growth forests and predict future landscape changes based on past patterns. I built a Markov model to simulate transitions between different forest cover types using transition matrices constructed from cover type data for the years 1972, 1984, and 1991. The model helped predict the future state of the forest, taking into account transition probabilities and the proportions of cover types over time. I also tested alternative management scenarios, such as reducing logging rates, to see how such changes could affect forest composition in the long term. Through this lab, I developed key skills in using Markov models to study landscape dynamics, analyzed historical forest cover changes, and explored the potential impact of forest management strategies.
+
+Based on the module, the plot below shows a management scenario that allows 30% of old growth forest to be retained at the end of the century
+
+![Least Cost Path](images/management.png)
+
