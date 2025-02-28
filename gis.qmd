@@ -7,9 +7,7 @@ editor: visual
 ::: {style="background-color: #f5f5f5"}
 # Geographic Information System for Environemntal Management
 
-This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart.
-I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making.
-Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.
+This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.
 :::
 
 ::: {style="background-color: #f5f5f5"}
@@ -20,8 +18,7 @@ Through this course, I developed skills in designing GIS databases, managing fie
 ### Raster and Least Cost Path Analysis
 :::
 
-In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations.
-The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.
+In this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.
 
 The map below was designed to illustrated the least cost path traveled by the bears in the region.
 
@@ -31,8 +28,7 @@ The map below was designed to illustrated the least cost path traveled by the be
 ### Suitability and Overlay Analysis: Marine Spatial Planning
 :::
 
-In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic.
-The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.
+In this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.
 
 The map below was designed to illustrate the recommended the most suitable sanctuary location in the region.
 
@@ -42,11 +38,8 @@ The map below was designed to illustrate the recommended the most suitable sanct
 ### Spatial Interpolation and Visualization of LiDAR
 :::
 
-In this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest (MKRF) to create Digital Elevation Models (DEMs) using different spatial interpolation methods. Spatial interpolation is essential for transforming discrete LiDAR point cloud data into continuous surfaces, enabling detailed terrain analysis. I explored various interpolation techniques, assessed their strengths and weaknesses, and compared the resulting DEMs to understand their differences. Additionally, I visualized point clouds and terrain models using GIS tools like QGIS and ArcGIS Pro.
-Through this lab, I developed key geospatial skills, including LiDAR data processing, spatial interpolation techniques, terrain modeling, and 3D visualization. I also strengthened my ability to analyze and interpret elevation datasets, assess the accuracy of different interpolation methods, and effectively communicate spatial data through maps and visual representations.
-
+In this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest (MKRF) to create Digital Elevation Models (DEMs) using different spatial interpolation methods. Spatial interpolation is essential for transforming discrete LiDAR point cloud data into continuous surfaces, enabling detailed terrain analysis. I explored various interpolation techniques, assessed their strengths and weaknesses, and compared the resulting DEMs to understand their differences. Additionally, I visualized point clouds and terrain models using GIS tools like QGIS and ArcGIS Pro. Through this lab, I developed key geospatial skills, including LiDAR data processing, spatial interpolation techniques, terrain modeling, and 3D visualization. I also strengthened my ability to analyze and interpret elevation datasets, assess the accuracy of different interpolation methods, and effectively communicate spatial data through maps and visual representations.
 
 The panel of maps above show a comparison of DEMs generated using IDW, Natural Neighbor, and Spline Interpolation methods with the corresponding difference rasters.
-
 
 ![Panel Maps](images\Layout.jpg)
