@@ -28,7 +28,8 @@ The methods for this research involves several interconnected steps: pre-process
 
 Interactive visualization of the shade frequency map at for June 21 at 18 : 45 PM
 
-```{r leaflet}
+```{r leaflet, warning=FALSE, message=FALSE, echo=TRUE}
+
 library(dplyr); library(leaflet);library(terra)
 shade <- rast("C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif")
 m <- leaflet() %>%
