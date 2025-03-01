@@ -13,7 +13,7 @@ website:
       - href: publications.qmd
         text: Publications
       - text: Content & Deliverables
-        menu: 
+        menu:
           - href: Capstone.qmd
             text: Capstone Project
           - href: gis.qmd

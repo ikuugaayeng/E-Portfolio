@@ -1,5 +1,5 @@
 ---
-title: "Capstone Project for my master's degree"
+title: "Capstone Project for my masters degree"
 format: html
 editor: visual
 ---

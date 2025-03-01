@@ -10,14 +10,14 @@ editor: visual
 
 In this project, I utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS, AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.
 
-####                                                                                                           The map shows the area for the project
+#### The map shows the area for the project
 
 ![](/Map%20of%20the%20site.jpg){fig-align="center" width="536"}
 
-####                                                                                                           Proposed Design for the bridge
+#### Proposed Design for the bridge
 
 ![](/Proposed%20Design(Bridge).jpg){alt="Proposed Design" fig-align="center" width="848"}
 
-####                                                                                                        Proposed Design for the open space {alt="Proposed Design"}
+#### Proposed Design for the open space {alt="Proposed Design"}
 
 ![](/Proposed%20Design.jpg){fig-align="center" width="849"}

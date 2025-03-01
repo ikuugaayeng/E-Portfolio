@@ -27,5 +27,5 @@ In this lab, I worked with Landsat imagery from the Oregon Cascades to analyze c
 
 Based on the module, the plot below shows a management scenario that allows 30% of old growth forest to be retained at the end of the century
 :::
-![plot](images/management.png)
 
+![plot](images/management.png)
