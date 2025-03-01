@@ -1,0 +1,42 @@
+---
+title: "Capstone Project for my master's degree"
+format: html
+editor: visual
+---
+
+
+###### [*EFFECTS OF TREE SHADING ON BUILDING COOLING ENERGY DEMAND ON UBC CAMPUS*]{.underline}
+
+###### Abstract
+
+The intensification of the urban heat island effect has exacerbated heat stress in cities, leading to increased energy demand for cooling and adverse impacts on human well-being. Among the various heat mitigation strategies, urban tree shading has been identified as an effective solution for reducing surface and ambient temperatures, thereby lowering building cooling loads.
+
+This study assesses the cooling benefits of tree shade on buildings in UBC neighbourhoods by analyzing the relationship between shade coverage and energy demand during summer. Using geospatial analysis and statistical modeling, LiDAR-derived shade rasters are overlaid on building footprints to quantify shade coverage. Regression models are then employed to assess the correlation between tree shade, surface temperature, and cooling energy demand.
+
+The findings will provide insights into the extent to which urban tree shading contributes to energy conservation and inform tree-planting strategies to enhance thermal comfort and sustainability in UBC neighbourhoods.
+
+###### Methods overview:
+
+The methods for this research involves several interconnected steps: pre-processing of LiDAR point cloud data to generate DSM and shade rasters, shade simulation and analysis for statistical analysis.
+
+![](images/methodology.png){fig-align="center" width="422"}
+
+::: {style="background-color: #f5f5f5"}
+![The animation shows the shade patterns estimated from the digital surface model for various times on the 21st day of June 2024. The image also shows the direction and length of the shadows/shades from trees at different time intervals](images/animation.gif)
+:::
+
+##### Leaflet
+
+Interactive visualization of the shade frequency map at for June 21 at 18 : 45 PM
+
+
+```{r leaflet}
+library(dplyr); library(leaflet);library(terra)
+shade <- rast("C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif")
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addRasterImage(shade) %>% 
+  addScaleBar(position = c("bottomleft"))
+m
+```
+
