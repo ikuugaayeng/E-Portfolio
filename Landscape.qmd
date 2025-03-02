@@ -29,3 +29,8 @@ Based on the module, the plot below shows a management scenario that allows 30% 
 :::
 
 ![plot](images/management.png)
+
+
+::: {style="background-color: #f5f5f5"}
+## Other labs in this courses coming soon !
+:::

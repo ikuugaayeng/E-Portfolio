@@ -24,12 +24,7 @@ This course introduced me to the fundamentals of Geographic Information Systems 
 
 In this lab, I worked with LiDAR data from the Malcolm Knapp Research Forest (MKRF) to detect individual trees using two methods: point cloud data and a canopy height model (CHM). The first part involved extracting point clouds from four plot locations and performing segmentation with the `segment_trees` function in the `lidR` package. I applied the li2012 algorithm to detect trees in a clearcut plot (Plot 1), focusing on the challenges of setting adaptive thresholds and using the `speed_up` parameter for efficiency. The goal was to segment individual trees by adjusting parameters such as `dt1`, `dt2`, and `Zu`, as suggested by Li et al. (2012). In the second part, I used the CHM-based Dalponte and Coomes 2016 algorithm to detect trees more accurately by analyzing height models and tree top locations. I created pit-free CHMs and located tree tops for segmentation, exploring different spatial resolutions to assess accuracy. I compared the outcomes from both methods and reflected on the best resolution for future analysis. Through this lab, I gained hands-on experience with advanced LiDAR tree segmentation techniques and developed a deeper understanding of how to apply different algorithms for forest structure analysis.
 
-Some DEMS, CHMs and 3D visualization from LiDAR are shown below
-
-![DEM](images/DEM.jpeg) ![CHM](images/CHM.png) ![DEM](images/TreeDetection.png)
 
 ::: {style="background-color: #f5f5f5"}
-### Visualizing LiDAR in 3D
-
-![3D LiDAR Visualisations](images/lidarin3d.png)
+## Other labs in this courses coming soon !
 :::

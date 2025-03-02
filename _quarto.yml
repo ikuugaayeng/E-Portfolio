@@ -22,6 +22,8 @@ website:
             text: Remote Sensing
           - href: Landscape.qmd
             text: Landscape Ecology
+          - href: Python.qmd
+            text: Geospatial Data Analysis
           - href: Coms.qmd
             text: Professional Communication
           - href: Undergraduate.qmd

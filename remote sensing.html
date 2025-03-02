@@ -122,6 +122,10 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Landscape Ecology</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="./Python.html">
+ <span class="dropdown-text">Geospatial Data Analysis</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./Coms.html">
  <span class="dropdown-text">Professional Communication</span></a>
   </li>  
@@ -150,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#advanced-remote-sensing" id="toc-advanced-remote-sensing" class="nav-link active" data-scroll-target="#advanced-remote-sensing">Advanced Remote Sensing</a></li>
   <li><a href="#some-selected-labs-from-this-course" id="toc-some-selected-labs-from-this-course" class="nav-link" data-scroll-target="#some-selected-labs-from-this-course">Some selected labs from this course</a></li>
   <li><a href="#individual-tree-detection-using-lidr" id="toc-individual-tree-detection-using-lidr" class="nav-link" data-scroll-target="#individual-tree-detection-using-lidr">Individual tree detection using lidR</a></li>
-  <li><a href="#visualizing-lidar-in-3d" id="toc-visualizing-lidar-in-3d" class="nav-link" data-scroll-target="#visualizing-lidar-in-3d">Visualizing LiDAR in 3D</a></li>
+  <li><a href="#other-labs-in-this-courses-coming-soon" id="toc-other-labs-in-this-courses-coming-soon" class="nav-link" data-scroll-target="#other-labs-in-this-courses-coming-soon">Other labs in this courses coming soon !</a></li>
   </ul>
 </nav>
     </div>
@@ -189,16 +193,8 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="individual-tree-detection-using-lidr">Individual tree detection using lidR</h2>
 </section>
 <p>In this lab, I worked with LiDAR data from the Malcolm Knapp Research Forest (MKRF) to detect individual trees using two methods: point cloud data and a canopy height model (CHM). The first part involved extracting point clouds from four plot locations and performing segmentation with the <code>segment_trees</code> function in the <code>lidR</code> package. I applied the li2012 algorithm to detect trees in a clearcut plot (Plot 1), focusing on the challenges of setting adaptive thresholds and using the <code>speed_up</code> parameter for efficiency. The goal was to segment individual trees by adjusting parameters such as <code>dt1</code>, <code>dt2</code>, and <code>Zu</code>, as suggested by Li et al.&nbsp;(2012). In the second part, I used the CHM-based Dalponte and Coomes 2016 algorithm to detect trees more accurately by analyzing height models and tree top locations. I created pit-free CHMs and located tree tops for segmentation, exploring different spatial resolutions to assess accuracy. I compared the outcomes from both methods and reflected on the best resolution for future analysis. Through this lab, I gained hands-on experience with advanced LiDAR tree segmentation techniques and developed a deeper understanding of how to apply different algorithms for forest structure analysis.</p>
-<p>Some DEMS, CHMs and 3D visualization from LiDAR are shown below</p>
-<p><img src="images/DEM.jpeg" class="img-fluid" alt="DEM"> <img src="images/CHM.png" class="img-fluid" alt="CHM"> <img src="images/TreeDetection.png" class="img-fluid" alt="DEM"></p>
-<section id="visualizing-lidar-in-3d" class="level3" style="background-color: #f5f5f5">
-<h3 class="anchored" data-anchor-id="visualizing-lidar-in-3d">Visualizing LiDAR in 3D</h3>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/lidarin3d.png" class="img-fluid figure-img"></p>
-<figcaption>3D LiDAR Visualisations</figcaption>
-</figure>
-</div>
+<section id="other-labs-in-this-courses-coming-soon" class="level2" style="background-color: #f5f5f5">
+<h2 class="anchored" data-anchor-id="other-labs-in-this-courses-coming-soon">Other labs in this courses coming soon !</h2>
 </section>
 
 

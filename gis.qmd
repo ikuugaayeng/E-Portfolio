@@ -43,3 +43,7 @@ In this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest
 The panel of maps above show a comparison of DEMs generated using IDW, Natural Neighbor, and Spline Interpolation methods with the corresponding difference rasters.
 
 ![Panel Maps](images/Layout.jpg)
+
+::: {style="background-color: #f5f5f5"}
+## Other labs in this courses coming soon !
+:::
