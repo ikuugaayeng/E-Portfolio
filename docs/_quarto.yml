@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: C:\Users\lenot14g2\Downloads\E-Portfolio
+
+website:
+  title: "Isaac Kuugaayeng"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Work Experience.qmd
+        text: Work Experience
+      - href: publications.qmd
+        text: Publications
+      - text: Content & Deliverables
+        menu:
+          - href: lidar.qmd
+            text: LiDAR Tools and Workflows
+          - href: Suitability Analysis.qmd
+            text: Site Suitability Analysis
+          - href: gis.qmd
+            text: Geographic Information System
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
