@@ -6,10 +6,8 @@ editor: visual
 
 ::: {style="background-color: #f5f5f5"}
 # Geospatial Data Analysis
+
 This course provided me with a strong foundation in Python programming and its applications in geospatial data analysis and environmental management. Lectures and hands-on exercises covered essential Python concepts, including syntax, data structures, control flow, and scripting, with a focus on processing and analyzing geospatial data. I gained experience working with Jupyter Notebooks, standalone Python scripts, and tools like Visual Studio Code, while using geo-focused libraries such as GDAL, Geopandas, and Rasterio.
 
 Through working with real-world datasets from UBC’s Malcolm Knapp Research Forest and coastal northwest Madagascar, I developed practical skills in querying, manipulating, and analyzing spatial data to address environmental management challenges like landscape change, ecological resilience, and carbon monitoring. This course strengthened my ability to transition from using graphical GIS tools to developing custom geospatial workflows with Python, enhancing both my technical programming abilities and my analytical approach to solving spatial problems.
 :::
-
-
-

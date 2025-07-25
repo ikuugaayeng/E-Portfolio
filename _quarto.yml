@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio
+  output-dir: C:\Users\lenot14g2\Downloads\E-Portfolio
 
 website:
   title: "Isaac Kuugaayeng"
@@ -8,31 +8,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: resume.qmd
-        text: Resume
+      - href: Work Experience.qmd
+        text: Work Experience
       - href: publications.qmd
         text: Publications
       - text: Content & Deliverables
         menu:
-          - href: Capstone.qmd
-            text: Capstone Project
+          - href: lidar.qmd
+            text: LiDAR Tools and Workflows
+          - href: Suitability Analysis.qmd
+            text: Site Suitability Analysis
           - href: gis.qmd
             text: Geographic Information System
-          - href: remote sensing.qmd
-            text: Remote Sensing
-          - href: Landscape.qmd
-            text: Landscape Ecology
-          - href: Python.qmd
-            text: Geospatial Data Analysis
-          - href: Coms.qmd
-            text: Professional Communication
-          - href: Undergraduate.qmd
-            text: Urban Planning
-            
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
     toc: true
 

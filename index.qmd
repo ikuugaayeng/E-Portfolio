@@ -1,27 +1,66 @@
 ---
-title: "Isaac Kuugaayeng"
-image: images/headshotII.jpg
-about:
-  template: jolla
-  image-width: 20em
-  image-shape: round
-  links: 
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/isaac-k/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/ikuugaayeng
-    - icon: github
-      text: GitHub
-      href: https://github.com/ikuugaayeng
-    - icon: envelope-at
-      text: Email
-      href: mailto:isaac020@student.ubc.ca
+format:
+  html:
+    page-layout: full
+    css: styles.css
+    toc: false
 ---
 
-I earned my bachelor's degree in Land Economy with a focus on law, economics, finance and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. After my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project, which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.
+:::::::: container
+::: sidebar
+![](images/headshot.jpg){.profile-img}
 
-My firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue a professional Master's degree in Geomatics for Environmental Management at the University of British Columbia(UBC). This program equipped me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.
+## Isaac Kuugaayeng
 
-Currently, my goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management. I have an interest in the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures.
+[![](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/isaac-k/)\
+[![](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://x.com/ikuugaayeng)\
+[![](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/ikuugaayeng)\
+[![](https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge&logoColor=red)](mailto:isaac020@student.ubc.ca)
+
+---
+
+[Home](index.qmd){.btn}\
+[Work Experience](resume.qmd){.btn}\
+[Publications](publications.qmd){.btn}\
+[Content](content.qmd){.btn}
+:::
+
+:::::: main-content
+
+## Bio
+
+I am a recent graduate of the Master of Geomatics for Environmental Management (MGEM) program at the University of British Columbia (UBC), where my research focused on shade mapping of trees and buildings to support urban climate adaptation. I used LiDAR, satellite imagery, and 3D spatial models to assess tree shade coverage and prioritize areas for nature-based solutions in urban planning.
+
+Currently, I work as a GIS Technician Intern at Social Planning Cowichan, supporting the Cedar Project—an Indigenous-led initiative to restore and protect cedar ecosystems in the Cowichan Valley. I specialize in spatial analysis, map design, LiDAR processing, GPS integration, and custom mobile mapping applications.
+
+With prior experience supporting municipal and regional planning projects in both Canada and Ghana, I am passionate about using GIS to inform sustainable land use, infrastructure planning, and climate resilience strategies.
+
+---
+
+## Recent Projects and Publications
+
+::::: pub-row
+
+::: pub-card
+### [The Impact of Tree Shade on Building Cooling Energy Demand During Summer](https://sustain.ubc.ca/sites/default/files/seedslibrary/Final%20Report%20Impact%20of%20Tree%20Shade%20on%20Building%20Cooling%20Energy%20Demand%20in%20Summer.pdf)
+
+**Isaac Kuugaayeng, Dr. Nicholas Coops**  
+*UBC, MGEM Capstone 2024*
+
+**Abstract:**  
+The upsurge of climate change has exacerbated urban heat island (UHI) effect, leading to severe consequences for human health, urban livability, and energy demand. This project contributes to NCAP's goals by quantifying tree shade on buildings on UBC campus and analyzing its impact on building energy demand using LiDAR and sun-position modeling.
+:::
+
+::: pub-card
+### Multi-Criteria Suitability Analysis of Sites for Western Redcedar
+
+**Isaac Kuugaayeng**  
+*Social Planning Cowichan, Ongoing Project*
+
+**Abstract:**  
+This GIS-based study identifies suitable sites for redcedar planting across Cowichan, Koksilah, and Chemainus watersheds using Multi-Criteria Decision Analysis (MCDA) based on environmental conditions. It supports Indigenous-led restoration and climate-adaptive forestry strategies.
+:::
+
+:::::
+::::::
+::::::::::

@@ -1,199 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Isaac Kuugaayeng",
+    "objectID": "Work Experience.html",
+    "href": "Work Experience.html",
+    "title": "\nWork Experience\n",
     "section": "",
-    "text": "I earned my bachelor’s degree in Land Economy with a focus on law, economics, finance and their relations with the built environment at the Kwame Nkrumah University of Science and Technology (KNUST), Ghana. After my undergraduate studies, I worked as a Teaching and Research Assistant at the Department of Land Economy, KNUST. I also worked as a Junior Technical Advisor(interned) with German Development Cooperation (GIZ) on the Resilience Against Climate Change Project, which seeks to address the impacts of climate change on agriculture in the Northern part of Ghana to improve food security.\nMy firsthand experience with the impacts of climate change while working with GIZ inspired me to pursue a professional Master’s degree in Geomatics for Environmental Management at the University of British Columbia(UBC). This program equipped me with the skills needed to monitor the damages and stressors on the environment and produce high-quality data to inform policies that will sustainably mitigate the pressing environmental challenges the world faces.\nCurrently, my goal is to leverage my skillsets and technical expertise in GIS and Remote Sensing from my studies to work with government and non-profit organizations and contribute to projects that promote environmental planning, biodiversity conservation and wildfire management. I have an interest in the creation and automation of geoinformatics tools, platforms, and spatial data infrastructures."
+    "text": "Present\nGIS Technician Intern, Social Planning Cowichan (SPC), Duncan, British Columbia\n\n\nProcess LiDAR data and satellite imagery using Python, ArcGIS Pro and QGIS to analyze land use change and support Indigenous-led cedar ecosystem restoration across the Cowichan, Koksilah, and Chemainus watersheds.\n\n\nLead the development of a custom mobile mapping app (Xpey’ Watch) using Python scripting and ArcGIS Online tools to automate field data collection and streamline stakeholder access to localized environmental datasets.\n\n\nMaintain ArcGIS Online spatial data infrastructure, perform QA/QC and update feature layers, manage metadata and enforce topological rules to ensure accuracy and integrity of utility and planning asset data.\n\n\n2024\nMGEM Capstone Researcher, University of British Columbia\n\n\nConducted shade mapping and 3D modeling of tree canopy using LiDAR and satellite data to assess its influence on building energy use on the UBC campus.\n\n\nCreated spatial models identifying priority areas for tree planting, improving urban climate resilience and contributing to a 10% increase in green space allocation.\n\n\n2022\nJunior Technical Advisor (Contract), German Development Cooperation (GIZ), Ghana\n\n\nProduced high-quality maps and interactive ArcGIS Dashboards to track municipal-scale land use patterns, zoning designations, and utility infrastructure projects which enhanced client decision-making.\n\n\nCo-developed an e-learning platform and geospatial data library to enhance municipal level planning, infrastructure data sharing long-term capacity-building of planning technicians, improving consistency in infrastructure reporting.\n\n\nAutomated spatial data workflows using Python, SQL and Model Builder to enhance geoprocessing efficiency by 30%, increasing accuracy and the timeliness of infrastructure planning deliverable.\n\n\n2021\nPlanning Technician Intern, Physical Planning Department, Ghana\n\n\nReviewed architectural and construction drawings and administered updates to ArcGIS Online utility asset data, improving municipal geodatabase accuracy for permitting and asset management.\n\n\nReviewed and assessed 25+ development permits and conducted field inspections to verify project compliance with zoning bylaws and land-use policies, resulting in streamlined approval timelines and increased adherence to planning standards.\n\n\nContributed to the design and production of spatial and settlement structure plans and high-resolution thematic maps for the Jirapa Municipality that guided policy recommendations and land use zoning aligned with municipal growth strategies using QGIS and ArcGIS."
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
+    "objectID": "Suitability Analysis.html",
+    "href": "Suitability Analysis.html",
+    "title": "Remote Sensing",
     "section": "",
-    "text": "Education\n\n\n\n\n\n\n\n\nMaster of Geomatics for Environmental Management\nThe University of British Columbia\nSep 2024 – Present\nVancouver, Canada\nMaster of Geomatics for Environmental Management is a professional master’s degree program that provides essential training in the use and application of geospatial tools used to plan, develop, manage, and evaluate programs to protect and regulate natural habitats and renewable natural resources.\nSome of the top and relevant modules in this master’s degree include:\n• Remote Sensing for Ecosystem Management\n• Geospatial Data Analysis\n• Geographic Information Systems for Forestry and Conservation\n• Landscape Ecology and Management\n• Linear Regression Models and Introduction to Spatial Statistics\n\n\n\n\nBachelor of Science in Land Economy First Class Honors\nKwame Nkrumah University of Science and Technology\nSep 2019 - Nov 2023\nKumasi, Ghana\nBachelor of Science in Land Economy is a degree that focuses on law, economics and their relationship to the built environment. In this degree, I explored other key areas including business regulation, the financial aspects of real estate and international development.\n\nSome relevant modules include :\n• Geo – Information Systems\n• Principles of Forestry\n• Law of Contract\n• Financial Mathematics\n• Law of Real Property\n• Research Methods\n• Land Use Planning and Administration\n• Real Estate Finance\n• Property Valuation and Appraisal\n• Law relating to Estate Management\n\n\n\n\nPublications\n\n\nAyitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana. American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024)\n\n\nTechnical Proficiency\n\n\n• Programming Languages: R, Python\n• GIS Software: ArcGIS Pro, QGIS\n• Office Applications:Microsoft Suite (Excel, Word, PowerPoint, Outlook), SharePoint, Skype for Business\n\n\nProfessional Work Experience\n\n\nResearch and Teaching Assistant, Department of Land Economy, KNUST\nNov 2023 – Aug 2024                                                     \n• Reinforced lessons through tutorials on GIS, Statistics, Research Methods and Financial Mathematics for first and final-year undergraduate students.\n• Assisted lecturers in facilitating tutorials and class quizzes, undertaking research projects and grading examination scripts of undergraduate students.\n\n\n\nResearch Assistant, Pacific Real Estate Advisors, Ghana\nNov 2023 – Aug 2024                                                     \n• Conducted stakeholder interviews to determine equitable compensation for local communities impacted by government-mandated development projects and incorporate these costs into valuation reports.\n• Boosted productivity by 10% by slashing down property measurement time to 30 minutes using a laser tape measure.\n• Revitalized job site productivity by employing diplomacy and arbitration in addressing site conflicts.\n\n\n\nJunior Technical Advisor, German Development Cooperation, Ghana\nOct 2022 – Dec 2024                                                     \nThe Resilience Against Climate Change (REACH), is a project co-funded by the European Union and the German Federal Ministry for Economic Co-operation to address the increasing effects of climate change on the agricultural sector in Northern Ghana.\nMy role as an intern at the GIZ EU REACH Project include:\n• To manage a centralized database system of public and restricted documents for the Municipal and District Assemblies.\n• Worked with GIS and IT specialists to digitize, create and maintain a database on farms under supervision.\n• Collaborated with the project team to develop a digital library for Municipal and district assemblies in Northern Ghana to disseminate knowledge on the impact of climate change on food security.\n• Contributed to the development of an E-Learning platform, hosting courses on GIS and climate change, designed to educate agricultural extension officers and smallholder farmers on climate-smart agricultural practices\n• Planned and coordinated training sessions for planners on collecting, analyzing, and visualizing geo-referenced data.\n\n\n\nAssistant Planner (Intern), Physical Planning Department, Jirapa, Ghana\nSep 2021 – Nov 2021                                                     \nThe Physical Planning Department is one of the departments of the Municipal Assembly and it is responsible for all physical settlements and spatial integration. The department makes sure that all physical buildings and spatial features are in proper order and that the necessary measures are put in place to ensure a well-organized spatial integration.\nMy duties as an Assistant Planner include;\n• Assisted project team in the design of district spatial and settlement structure plans and thematic maps using QGIS and ArcGIS Pro for Jirapa Municipality.\n• Evaluated development permits and inspected development sites to ensure the implementation of approved planning policies regarding spatial planning within the municipality.\n• Evaluated development permits and inspected development sites to ensure that projects adhered to the municipal planning policies and guidelines.\n• Undertook administrative work and database management.\n• Assisted in the collection of site data using Handled GPS Units.\n\n\n\nVerification Officer, Electoral Commission of Ghana\nDec 2020                                                     \nThe Electoral Commission is one of the governance institutions provided under the 1992 constitution of Ghana. The Commission was set up purposely to manage the conduct of all public elections and Referenda, handle all matters directly related to the conduct of elections in the country.\nMy role as a verification officer was to:\n• Verify the eligibility of valid voters to cast their votes in the December 2020 General Elections.\n• Ensure that non-eligible and invalid voters do not have access to the system to cast their votes.\n• Ensure peaceful General Elections at my assigned polling station.\n\n\n\nAwards and Honors\n\n\nMastercard Foundation Scholarship Recipient.\nAug 2024 – Present\nWells Mountain Initiative Scholarship of $1920 for undergraduate studies.\nAug 2022\n\n\nVolunteering Experience\n\n\nCampus Affairs Manager, Ghana Sustainability Leadership Academy\nJul 2021 – Aug 2024                                                     \nThe Ghana Sustainability Leadership Academy is a youth-led organization which seeks to contribute to cultivating sustainable leadership qualities in students. The academy focuses on equipping students with sustainable entrepreneurship and employability skills, preparing them to be future leaders who can make a positive impact on society.\nAs the General Secretary, I;\n• Liaised with accomplished entrepreneurs for career mentorship of members of the Academy.\n• Led a week-long career development program to prepare college students for a successful transition into the workforce.\n• Led the organization of summer school to train over 300 college students on Leadership, Real Estate Data Science and Entrepreneurship.\n\n\n\nSecretary General, Educate Your Own @ Wells Mountain Initiative, USA\nJan 2023 - Present                                                     \nEducate Your Own is a student-led fundraising campaign under a not-for-profit US-based organization called Wells Mountain Initiative.\nAs the general secretary, my roles include;\n• I advocate for zero dropouts of students across Africa and beyond.\n• I lead fundraising events. I have led fundraising campaigns with a 5-man team to raise $540 to support 5 students with $100 each for their undergraduate studies.\n\n\n\nHuman Rights Researcher(Intern), Broken Chalk, Amsterdam\nFeb 2023 - Feb 2024                                                     \nBroken Chalk is an Amsterdam-based non-governmental organization (NGO) committed to addressing human rights violations in the education sector. It is composed of a multinational team of dedicated human rights advocates who collaborate extensively on researching violations in every corner of the world\nAs a research assistant, I:\n• Conducted research and wrote reports on educational challenges affecting the EMEA Region to raise awareness and draw the attention of non-governmental organizations to innovative solutions.\n• Published an article on Educational Challenges in Ghana. Take a look at the article here\n• Co-authored proposals for European Union programs on human rights violations in partnership with the senior director of the team who finalizes and submits the reports for press release.\n\n\n\nLanguages\n\n\n• English(Professional)\n• French(basic)\n• Southern Dagaare(native)"
+    "text": "In this course, I was introduced to remote sensing techniques for gathering spatial information about the Earth’s surface, focusing on forestry, vegetation, and ecosystem management. I learned the fundamentals of spatial data capture, electromagnetic radiation, and the spectral properties of natural and manufactured materials. The course covered key sensor systems, including airborne and satellite sensors, and advanced image analysis techniques like LiDAR and RADAR.\nI also gained hands-on experience with digital image processing, including image rectification and classification. Additionally, I was introduced to R programming, focusing on processing spatial data and remote sensing imagery. I developed skills in creating tailored workflows, conducting spatial analysis, and generating scientific graphics. Through this course, I enhanced my abilities in sensor systems, image processing, and spatial data analysis, while building confidence in using software like ENVI, QGIS, and R to solve data-intensive problems.\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.\nIn this lab, I worked with LiDAR data from the Malcolm Knapp Research Forest (MKRF) to detect individual trees using two methods: point cloud data and a canopy height model (CHM). The first part involved extracting point clouds from four plot locations and performing segmentation with the segment_trees function in the lidR package. I applied the li2012 algorithm to detect trees in a clearcut plot (Plot 1), focusing on the challenges of setting adaptive thresholds and using the speed_up parameter for efficiency. The goal was to segment individual trees by adjusting parameters such as dt1, dt2, and Zu, as suggested by Li et al. (2012). In the second part, I used the CHM-based Dalponte and Coomes 2016 algorithm to detect trees more accurately by analyzing height models and tree top locations. I created pit-free CHMs and located tree tops for segmentation, exploring different spatial resolutions to assess accuracy. I compared the outcomes from both methods and reflected on the best resolution for future analysis. Through this lab, I gained hands-on experience with advanced LiDAR tree segmentation techniques and developed a deeper understanding of how to apply different algorithms for forest structure analysis."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Peer-reviewed publications:\nAyitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana. American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024)"
-  },
-  {
-    "objectID": "content_development.html",
-    "href": "content_development.html",
-    "title": "Content & Deliverables",
-    "section": "",
-    "text": "Project Deliverable 1\nThis is a sample page where you can archive project deliverables."
-  },
-  {
-    "objectID": "content.html",
-    "href": "content.html",
-    "title": "Projects and Deliverables",
-    "section": "",
-    "text": "Key projects from my Master’s degree and undergraduate studies"
-  },
-  {
-    "objectID": "content.html#leaflet",
-    "href": "content.html#leaflet",
-    "title": "Projects and Deliverables",
-    "section": "Leaflet",
-    "text": "Leaflet\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\nlibrary(dplyr); library(leaflet);library(terra)\n\nWarning: package 'dplyr' was built under R version 4.3.3\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.3.3\n\n\nWarning: package 'terra' was built under R version 4.3.3\n\n\nterra 1.7.83\n\nshade &lt;- rast(\"C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif\")\nm &lt;- leaflet() %&gt;%\n  addProviderTiles(\"Esri.WorldImagery\") %&gt;%\n  addRasterImage(shade) %&gt;% \n  addScaleBar(position = c(\"bottomleft\"))\nm"
-  },
-  {
-    "objectID": "content.html#code-snippets",
-    "href": "content.html#code-snippets",
-    "title": "Projects and Deliverables",
-    "section": "Code Snippets",
-    "text": "Code Snippets\nSample code snippet. Notice that you can provide a toggle to switch between coding languages - this is referred to as a ‘tabset’ in quarto. It is good practice to try and convert your R code to python, and vice-versa to demonstrate coding proficiency. For example, let’s showcase a function for calculating NDVI in R and Python.\n\nRPython\n\n\ncalc_ndvi &lt;- function(nir, red){ ndvi &lt;- (nir-red)/(nir+red) return(ndvi) }\n\n\ndef calc_ndvi(nir, red): \n  ndvi = (nir.astype(float)-red.astype(float))/(nir.astype(float)+red.astype(float))\n  return(ndvi)"
-  },
-  {
-    "objectID": "content.html#external-links",
-    "href": "content.html#external-links",
-    "title": "Projects and Deliverables",
-    "section": "External links",
-    "text": "External links\nYou can also provide a frame linking to external websites. For example, here is a link to a Google Earth Engine application I developed. The full-screen GEE application is available here in case you’re interested.\n(To use the GEE tool, navigate to any city you’d like, hit apply filters, and click anywhere on the map to retrieve a time-series of Landsat surface temperature observations for that point. Areas where the maximum temp exceeded 35 degrees Celsius in your date-range are highlighted in red.)"
-  },
-  {
-    "objectID": "content.html#geographic-information-system-for-environmental-management",
-    "href": "content.html#geographic-information-system-for-environmental-management",
-    "title": "Projects and Deliverables",
-    "section": "GEOGRAPHIC INFORMATION SYSTEM FOR ENVIRONMENTAL MANAGEMENT",
-    "text": "GEOGRAPHIC INFORMATION SYSTEM FOR ENVIRONMENTAL MANAGEMENT\nIn this course,"
-  },
-  {
-    "objectID": "content.html#geographic-information-system-for-environemntal-management",
-    "href": "content.html#geographic-information-system-for-environemntal-management",
-    "title": "Projects and Deliverables",
-    "section": "Geographic Information System for Environemntal Management",
-    "text": "Geographic Information System for Environemntal Management\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
-  },
-  {
-    "objectID": "content.html#geographic-information-system-for-environemntal-management-1",
-    "href": "content.html#geographic-information-system-for-environemntal-management-1",
-    "title": "Projects and Deliverables",
-    "section": "Geographic Information System for Environemntal Management",
-    "text": "Geographic Information System for Environemntal Management\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
-  },
-  {
-    "objectID": "content.html#building-environmentally-resilient-and-energy-efficient-open-spaces",
-    "href": "content.html#building-environmentally-resilient-and-energy-efficient-open-spaces",
-    "title": "Projects and Deliverables",
-    "section": "Building Environmentally Resilient and Energy Efficient Open Spaces",
-    "text": "Building Environmentally Resilient and Energy Efficient Open Spaces\n#Remote\nThis course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
-  },
-  {
-    "objectID": "content.html#undergraduate-project---builders-idea-challenge",
-    "href": "content.html#undergraduate-project---builders-idea-challenge",
-    "title": "Projects and Deliverables",
-    "section": "Undergraduate Project - Builders’ Idea Challenge",
-    "text": "Undergraduate Project - Builders’ Idea Challenge\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces \n\nIn this project, I designed public spaces with a focus on ecological sustainability and energy efficiency. I utilized innovative approaches to create spaces that contribute to carbon sequestration while providing opportunities for community-driven climate adaptation. By incorporating green infrastructure and nature-based solutions (NBS), the design aimed to enhance urban resilience, reduce environmental impacts, and improve overall community well-being, aligning with sustainable development principles.\nThe map below was designed to show the neighbourhood for the stree data was downloaded. The Parks are symbolized by tree density.\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design for the Open Space"
-  },
-  {
-    "objectID": "content.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "href": "content.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "title": "Projects and Deliverables",
-    "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
-    "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces\n\nIn this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\nThe map below was designed to show the area for the project\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design(Bridge)\n\n\n\n\n\nProposed Design for the Open Space"
-  },
-  {
-    "objectID": "gis.html",
-    "href": "gis.html",
-    "title": "Geographic Information System(GIS)",
-    "section": "",
-    "text": "This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.\nIn this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.\nThe map below was designed to illustrated the least cost path traveled by the bears in the region.\nIn this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.\nThe map below was designed to illustrate the recommended the most suitable sanctuary location in the region.\nIn this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest (MKRF) to create Digital Elevation Models (DEMs) using different spatial interpolation methods. Spatial interpolation is essential for transforming discrete LiDAR point cloud data into continuous surfaces, enabling detailed terrain analysis. I explored various interpolation techniques, assessed their strengths and weaknesses, and compared the resulting DEMs to understand their differences. Additionally, I visualized point clouds and terrain models using GIS tools like QGIS and ArcGIS Pro. Through this lab, I developed key geospatial skills, including LiDAR data processing, spatial interpolation techniques, terrain modeling, and 3D visualization. I also strengthened my ability to analyze and interpret elevation datasets, assess the accuracy of different interpolation methods, and effectively communicate spatial data through maps and visual representations.\nThe panel of maps above show a comparison of DEMs generated using IDW, Natural Neighbor, and Spline Interpolation methods with the corresponding difference rasters."
-  },
-  {
-    "objectID": "gis.html#quarto",
-    "href": "gis.html#quarto",
-    "title": "GIS",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "gis.html#running-code",
-    "href": "gis.html#running-code",
-    "title": "GIS",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
-  },
-  {
-    "objectID": "gis.html#geographic-information-system-for-environemntal-management",
-    "href": "gis.html#geographic-information-system-for-environemntal-management",
-    "title": "GIS",
-    "section": "",
-    "text": "This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries. I also gained experience in communicating analytical findings to both technical and non-technical audiences. One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills."
-  },
-  {
-    "objectID": "gis.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "href": "gis.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "title": "GIS",
-    "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
-    "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces\n\nIn this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\nThe map below was designed to show the area for the project\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design(Bridge)\n\n\n\n\n\nProposed Design for the Open Space"
-  },
-  {
-    "objectID": "Undergraduate.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "href": "Undergraduate.html#undergraduate-project---builders-idea-challenge-on-urban-planning",
-    "title": "Undergraduate.qmd",
-    "section": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning",
-    "text": "Undergraduate Project - Builders’ Idea Challenge on Urban Planning\n\nBuilding Environmentally Resilient and Energy Efficient Open Spaces\n\nIn this project,Utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS and AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\nThe map below was designed to show the area for the project\n\n\n\nProposed Design(Bridge\n\n\n\n\n\nProposed Design(Bridge)\n\n\n :::"
-  },
-  {
-    "objectID": "Capstone project.html",
-    "href": "Capstone project.html",
-    "title": "Capstone project.qmd",
-    "section": "",
-    "text": "Key projects from my Master’s degree and undergraduate studies"
-  },
-  {
-    "objectID": "Capstone project.html#leaflet",
-    "href": "Capstone project.html#leaflet",
-    "title": "Capstone project.qmd",
-    "section": "Leaflet",
-    "text": "Leaflet\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\nlibrary(dplyr); library(leaflet);library(terra)\n\nWarning: package 'dplyr' was built under R version 4.3.3\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.3.3\n\n\nWarning: package 'terra' was built under R version 4.3.3\n\n\nterra 1.7.83\n\nshade &lt;- rast(\"C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif\")\nm &lt;- leaflet() %&gt;%\n  addProviderTiles(\"Esri.WorldImagery\") %&gt;%\n  addRasterImage(shade) %&gt;% \n  addScaleBar(position = c(\"bottomleft\"))\nm"
-  },
-  {
-    "objectID": "Undergraduate.html",
-    "href": "Undergraduate.html",
-    "title": "Undergraduate Project",
-    "section": "",
-    "text": "Building Environmentally Resilient and Vibrant Open Spaces\n\nIn this project, I utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS, AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\n\nThe map shows the area for the project\n\n\n\n\n\n\n\nProposed Design for the bridge\n\n\n\n\n\n\n\nProposed Design for the open space"
-  },
-  {
-    "objectID": "Capstone_project.html",
-    "href": "Capstone_project.html",
-    "title": "Capstone project",
-    "section": "",
-    "text": "EFFECTS OF TREE SHADING ON BUILDING COOLING ENERGY DEMAND ON UBC CAMPUS\n\n\n\n\nThe map shows the shade patterns estimated from the digital surface model for various times on the 21st day of August 2024. The map shows the direction and length of the shadows/shades from trees on the 21st day of August 2024 at 18: 00 PM.\n\n\n\n\n\nLeaflet\nSample leaflet - for detailed leaflet instructions, visit the FCOR 599 workshop archive page here.\n\nlibrary(dplyr); library(leaflet);library(terra)\n\nWarning: package 'dplyr' was built under R version 4.3.3\n\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\n\nWarning: package 'leaflet' was built under R version 4.3.3\n\n\nWarning: package 'terra' was built under R version 4.3.3\n\n\nterra 1.7.83\n\nshade &lt;- rast(\"C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif\")\nm &lt;- leaflet() %&gt;%\n  addProviderTiles(\"Esri.WorldImagery\") %&gt;%\n  addRasterImage(shade) %&gt;% \n  addScaleBar(position = c(\"bottomleft\"))\nm"
-  },
-  {
-    "objectID": "Capstone.html",
-    "href": "Capstone.html",
-    "title": "Capstone Project for my masters degree",
-    "section": "",
-    "text": "EFFECTS OF TREE SHADING ON BUILDING COOLING ENERGY DEMAND ON UBC CAMPUS\n\n\nAbstract\nThe intensification of the urban heat island effect has exacerbated heat stress in cities, leading to increased energy demand for cooling and adverse impacts on human well-being. Among the various heat mitigation strategies, urban tree shading has been identified as an effective solution for reducing surface and ambient temperatures, thereby lowering building cooling loads.\nThis study assesses the cooling benefits of tree shade on buildings in UBC neighbourhoods by analyzing the relationship between shade coverage and energy demand during summer. Using geospatial analysis and statistical modeling, LiDAR-derived shade rasters are overlaid on building footprints to quantify shade coverage. Regression models are then employed to assess the correlation between tree shade, surface temperature, and cooling energy demand.\nThe findings will provide insights into the extent to which urban tree shading contributes to energy conservation and inform tree-planting strategies to enhance thermal comfort and sustainability in UBC neighbourhoods.\n\n\nMethods overview:\nThe methods for this research involves several interconnected steps: pre-processing of LiDAR point cloud data to generate DSM and shade rasters, shade simulation and analysis for statistical analysis.\n\n\n\n\n\n\n\n\n\nThe animation shows the shade patterns estimated from the digital surface model for various times on the 21st day of June 2024. The image also shows the direction and length of the shadows/shades from trees at different time intervals\n\n\n\n\n\nLeaflet\nInteractive visualization of the shade frequency map at for June 21 at 18 : 45 PM\n\nlibrary(dplyr); library(leaflet);library(terra)\nshade &lt;- rast(\"C:/Users/isaac020.stu/OneDrive - UBC/Documents/GitHub/E-Portfolio/images/hillshade_18-45.tif\")\nm &lt;- leaflet() %&gt;%\n  addProviderTiles(\"Esri.WorldImagery\") %&gt;%\n  addRasterImage(shade) %&gt;% \n  addScaleBar(position = c(\"bottomleft\"))\nm"
-  },
-  {
-    "objectID": "gis.html#some-selected-labs-from-this-course",
-    "href": "gis.html#some-selected-labs-from-this-course",
-    "title": "Geographic Information System(GIS)",
+    "objectID": "Suitability Analysis.html#some-selected-labs-from-this-course",
+    "href": "Suitability Analysis.html#some-selected-labs-from-this-course",
+    "title": "Remote Sensing",
     "section": "Some selected labs from this course",
     "text": "Some selected labs from this course"
   },
   {
-    "objectID": "Landscape.html",
-    "href": "Landscape.html",
-    "title": "Landscape Ecology",
-    "section": "",
-    "text": "This course provided me with an in-depth exploration of landscape ecology, focusing on spatial patterning, heterogeneity, and dynamics over large regions. Lectures covered essential concepts like spatial heterogeneity, scale, and landscape connectivity. Lab sessions involved working with real-world data to quantify spatial patterns using software such as Fragstats. I learned how to calculate, interpret, and apply various metrics to assess landscape connectivity and spatial resilience.\nThroughout the course, I developed the skills to create spatial models and apply landscape ecology principles to solve environmental management issues. One of the most valuable aspects of the course was learning how patch-level decisions influence broader landscape dynamics and appreciating the relationship between spatial resilience and landscape changes in different systems, such as forests, urban areas, and agricultural landscapes.\nI gained a strong foundation in the application of landscape ecology tools, enabling me to approach natural resource management challenges with a deeper understanding of spatial patterns and their ecological significance."
-  },
-  {
-    "objectID": "Landscape.html#some-selected-labs-from-this-course",
-    "href": "Landscape.html#some-selected-labs-from-this-course",
-    "title": "Landscape Ecology",
-    "section": "Some selected labs from this course",
-    "text": "Some selected labs from this course"
+    "objectID": "Suitability Analysis.html#individual-tree-detection-using-lidr",
+    "href": "Suitability Analysis.html#individual-tree-detection-using-lidr",
+    "title": "Remote Sensing",
+    "section": "Individual tree detection using lidR",
+    "text": "Individual tree detection using lidR"
   },
   {
     "objectID": "remote sensing.html",
@@ -217,6 +49,111 @@
     "text": "Individual tree detection using lidR"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Kuugaayeng, I. (2025). The Impact of Tree Shade on Building Cooling Energy Demand During Summer. UBC SEEDS Sustainability Program. View Report"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Kuugaayeng, I. (2025). The Impact of Tree Shade on Building Cooling Energy Demand During Summer. UBC SEEDS Sustainability Program. View Report"
+  },
+  {
+    "objectID": "Landscape.html",
+    "href": "Landscape.html",
+    "title": "Landscape Ecology",
+    "section": "",
+    "text": "This course provided me with an in-depth exploration of landscape ecology, focusing on spatial patterning, heterogeneity, and dynamics over large regions. Lectures covered essential concepts like spatial heterogeneity, scale, and landscape connectivity. Lab sessions involved working with real-world data to quantify spatial patterns using software such as Fragstats. I learned how to calculate, interpret, and apply various metrics to assess landscape connectivity and spatial resilience.\nThroughout the course, I developed the skills to create spatial models and apply landscape ecology principles to solve environmental management issues. One of the most valuable aspects of the course was learning how patch-level decisions influence broader landscape dynamics and appreciating the relationship between spatial resilience and landscape changes in different systems, such as forests, urban areas, and agricultural landscapes.\nI gained a strong foundation in the application of landscape ecology tools, enabling me to approach natural resource management challenges with a deeper understanding of spatial patterns and their ecological significance."
+  },
+  {
+    "objectID": "Landscape.html#some-selected-labs-from-this-course",
+    "href": "Landscape.html#some-selected-labs-from-this-course",
+    "title": "Landscape Ecology",
+    "section": "Some selected labs from this course",
+    "text": "Some selected labs from this course"
+  },
+  {
+    "objectID": "Landscape.html#other-labs-in-this-courses-coming-soon",
+    "href": "Landscape.html#other-labs-in-this-courses-coming-soon",
+    "title": "Landscape Ecology",
+    "section": "Other labs in this courses coming soon !",
+    "text": "Other labs in this courses coming soon !"
+  },
+  {
+    "objectID": "gis.html",
+    "href": "gis.html",
+    "title": "Geographic Information System(GIS)",
+    "section": "",
+    "text": "This course introduced me to the fundamentals of Geographic Information Systems (GIS) and their applications in forestry, conservation, and natural resource management. Lectures covered key concepts like GIS database design, spatial analysis, and data visualization. Lab sessions provided hands-on experience with tools such as ArcGIS Pro, QGIS, GDAL, PostgreSQL, PostGIS, Git, and Kart. I spent most of my time working with real-world geospatial datasets, performing spatial queries, analyzing geographic patterns, and creating maps for decision-making. Through this course, I developed skills in designing GIS databases, managing field data collection, and conducting spatial and logical queries.One of the most valuable aspects was creating maps that effectively communicate the results of geospatial analyses, reinforcing my technical and analytical skills.\nIn this lab, I used GDAL and QGIS to perform various raster operations, creating and processing rasters through calculations. The final task involved a least-cost path analysis in ArcGIS Pro to study Grizzly Bear habitat and movement in western Alberta, a critical conservation issue. This project helped me apply GIS tools to real-world ecological challenges.\nThe map below was designed to illustrated the least cost path traveled by the bears in the region.\nIn this lab, I conducted a suitability analysis using geospatial tools to identify areas for marine conservation in Hawaii, focusing on the critical habitat of humpback whales. Through vector polygon overlay and database table intersection, I performed a marine spatial planning exercise to find the most suitable areas to expand the Hawaiian Islands Humpback Whale National Marine Sanctuary. This analysis aimed to balance the growing conflict between whale habitat protection and human activities like vessel traffic. The lab allowed me to apply GIS tools to address conservation challenges and make data-driven decisions for marine resource management.\nThe map below was designed to illustrate the recommended the most suitable sanctuary location in the region.\nIn this lab, I worked with LiDAR data from the UBC Malcolm Knapp Research Forest (MKRF) to create Digital Elevation Models (DEMs) using different spatial interpolation methods. Spatial interpolation is essential for transforming discrete LiDAR point cloud data into continuous surfaces, enabling detailed terrain analysis. I explored various interpolation techniques, assessed their strengths and weaknesses, and compared the resulting DEMs to understand their differences. Additionally, I visualized point clouds and terrain models using GIS tools like QGIS and ArcGIS Pro. Through this lab, I developed key geospatial skills, including LiDAR data processing, spatial interpolation techniques, terrain modeling, and 3D visualization. I also strengthened my ability to analyze and interpret elevation datasets, assess the accuracy of different interpolation methods, and effectively communicate spatial data through maps and visual representations.\nThe panel of maps above show a comparison of DEMs generated using IDW, Natural Neighbor, and Spline Interpolation methods with the corresponding difference rasters."
+  },
+  {
+    "objectID": "gis.html#some-selected-labs-from-this-course",
+    "href": "gis.html#some-selected-labs-from-this-course",
+    "title": "Geographic Information System(GIS)",
+    "section": "Some selected labs from this course",
+    "text": "Some selected labs from this course"
+  },
+  {
+    "objectID": "gis.html#other-labs-in-this-courses-coming-soon",
+    "href": "gis.html#other-labs-in-this-courses-coming-soon",
+    "title": "Geographic Information System(GIS)",
+    "section": "Other labs in this courses coming soon !",
+    "text": "Other labs in this courses coming soon !"
+  },
+  {
+    "objectID": "Capstone.html",
+    "href": "Capstone.html",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR, which stands for Light Detection and Ranging, is a remote sensing technology that measures highly accurate distances by emitting laser pulses onto the Earth’s surface to create 3D maps of objects and landscapes (Park et al., 2023; Roussel et al., 2020). This technology provides precise three-dimensional data about topography and surface features (Tooke et al., 2009).\nIn forestry, LiDAR is commonly used for mapping and assessing forests, including estimating tree heights and canopy structures (Roussel et al., 2020). In urban planning, it supports applications such as land use planning and infrastructure development (Dawood et al., 2017).\n\n\n\n\nLiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion.\n\n\n\n\n\n\n\n\nLiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS.\n\n\n\n\n\n\n Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR.\n\n\n\n\n\n\n\n\n R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
+    "objectID": "Capstone.html#lidar-tools-and-workflows",
+    "href": "Capstone.html#lidar-tools-and-workflows",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR, which stands for Light Detection and Ranging, is a remote sensing technology that measures highly accurate distances by emitting laser pulses onto the Earth’s surface to create 3D maps of objects and landscapes (Park et al., 2023; Roussel et al., 2020). This technology provides precise three-dimensional data about topography and surface features (Tooke et al., 2009).\nIn forestry, LiDAR is commonly used for mapping and assessing forests, including estimating tree heights and canopy structures (Roussel et al., 2020). In urban planning, it supports applications such as land use planning and infrastructure development (Dawood et al., 2017).\n\n\n\n\nLiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion.\n\n\n\n\n\n\n\n\nLiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS.\n\n\n\n\n\n\n Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR.\n\n\n\n\n\n\n\n\n R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
+    "objectID": "Capstone.html#types-of-lidar",
+    "href": "Capstone.html#types-of-lidar",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion."
+  },
+  {
+    "objectID": "Capstone.html#types-of-lidar-systems",
+    "href": "Capstone.html#types-of-lidar-systems",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion."
+  },
+  {
+    "objectID": "Capstone.html#how-does-lidar-work",
+    "href": "Capstone.html#how-does-lidar-work",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS."
+  },
+  {
+    "objectID": "Capstone.html#interactive-examples",
+    "href": "Capstone.html#interactive-examples",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR."
+  },
+  {
+    "objectID": "Capstone.html#common-tools-for-processing-lidar",
+    "href": "Capstone.html#common-tools-for-processing-lidar",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
     "objectID": "Coms.html",
     "href": "Coms.html",
     "title": "Professional Communication",
@@ -231,34 +168,6 @@
     "text": "My Positionality Statement"
   },
   {
-    "objectID": "remote sensing.html#other-labs-in-this-courses-coming-soon",
-    "href": "remote sensing.html#other-labs-in-this-courses-coming-soon",
-    "title": "Remote Sensing",
-    "section": "Other labs in this courses coming soon !",
-    "text": "Other labs in this courses coming soon !"
-  },
-  {
-    "objectID": "Landscape.html#other-labs-in-this-courses-coming-soon",
-    "href": "Landscape.html#other-labs-in-this-courses-coming-soon",
-    "title": "Landscape Ecology",
-    "section": "Other labs in this courses coming soon !",
-    "text": "Other labs in this courses coming soon !"
-  },
-  {
-    "objectID": "gis.html#other-labs-in-this-courses-coming-soon",
-    "href": "gis.html#other-labs-in-this-courses-coming-soon",
-    "title": "Geographic Information System(GIS)",
-    "section": "Other labs in this courses coming soon !",
-    "text": "Other labs in this courses coming soon !"
-  },
-  {
-    "objectID": "Coms.html#many-other-thing-i-learned-in-this-courses-coming-soon",
-    "href": "Coms.html#many-other-thing-i-learned-in-this-courses-coming-soon",
-    "title": "Professional Communication",
-    "section": "Many other thing I learned in this courses coming soon !",
-    "text": "Many other thing I learned in this courses coming soon !"
-  },
-  {
     "objectID": "Coms.html#many-other-things-i-learned-in-this-courses-including-audience-analysis-and-principles-of-negotiation-coming-soon",
     "href": "Coms.html#many-other-things-i-learned-in-this-courses-including-audience-analysis-and-principles-of-negotiation-coming-soon",
     "title": "Professional Communication",
@@ -266,10 +175,101 @@
     "text": "Many other things I learned in this courses including audience analysis and principles of negotiation coming soon !"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Home\nWork Experience\nPublications\nContent\n\n\n\n\n\nI am a recent graduate of the Master of Geomatics for Environmental Management (MGEM) program at the University of British Columbia (UBC), where my research focused on shade mapping of trees and buildings to support urban climate adaptation. I used LiDAR, satellite imagery, and 3D spatial models to assess tree shade coverage and prioritize areas for nature-based solutions in urban planning.\nCurrently, I work as a GIS Technician Intern at Social Planning Cowichan, supporting the Cedar Project—an Indigenous-led initiative to restore and protect cedar ecosystems in the Cowichan Valley. I specialize in spatial analysis, map design, LiDAR processing, GPS integration, and custom mobile mapping applications.\nWith prior experience supporting municipal and regional planning projects in both Canada and Ghana, I am passionate about using GIS to inform sustainable land use, infrastructure planning, and climate resilience strategies.\n\n\n\n\n\n\n\nIsaac Kuugaayeng, Dr. Nicholas Coops\nUBC, MGEM Capstone 2024\nAbstract:\nThe upsurge of climate change has exacerbated urban heat island (UHI) effect, leading to severe consequences for human health, urban livability, and energy demand. This project contributes to NCAP’s goals by quantifying tree shade on buildings on UBC campus and analyzing its impact on building energy demand using LiDAR and sun-position modeling.\n\n\n\nIsaac Kuugaayeng\nSocial Planning Cowichan, Ongoing Project\nAbstract:\nThis GIS-based study identifies suitable sites for redcedar planting across Cowichan, Koksilah, and Chemainus watersheds using Multi-Criteria Decision Analysis (MCDA) based on environmental conditions. It supports Indigenous-led restoration and climate-adaptive forestry strategies."
+  },
+  {
+    "objectID": "index.html#isaac-kuugaayeng",
+    "href": "index.html#isaac-kuugaayeng",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Home\nWork Experience\nPublications\nContent"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "I am a recent graduate of the Master of Geomatics for Environmental Management (MGEM) program at the University of British Columbia (UBC), where my research focused on shade mapping of trees and buildings to support urban climate adaptation. I used LiDAR, satellite imagery, and 3D spatial models to assess tree shade coverage and prioritize areas for nature-based solutions in urban planning.\nCurrently, I work as a GIS Technician Intern at Social Planning Cowichan, supporting the Cedar Project—an Indigenous-led initiative to restore and protect cedar ecosystems in the Cowichan Valley. I specialize in spatial analysis, map design, LiDAR processing, GPS integration, and custom mobile mapping applications.\nWith prior experience supporting municipal and regional planning projects in both Canada and Ghana, I am passionate about using GIS to inform sustainable land use, infrastructure planning, and climate resilience strategies."
+  },
+  {
+    "objectID": "index.html#recent-projects-and-publications",
+    "href": "index.html#recent-projects-and-publications",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Isaac Kuugaayeng, Dr. Nicholas Coops\nUBC, MGEM Capstone 2024\nAbstract:\nThe upsurge of climate change has exacerbated urban heat island (UHI) effect, leading to severe consequences for human health, urban livability, and energy demand. This project contributes to NCAP’s goals by quantifying tree shade on buildings on UBC campus and analyzing its impact on building energy demand using LiDAR and sun-position modeling.\n\n\n\nIsaac Kuugaayeng\nSocial Planning Cowichan, Ongoing Project\nAbstract:\nThis GIS-based study identifies suitable sites for redcedar planting across Cowichan, Koksilah, and Chemainus watersheds using Multi-Criteria Decision Analysis (MCDA) based on environmental conditions. It supports Indigenous-led restoration and climate-adaptive forestry strategies."
+  },
+  {
+    "objectID": "lidar.html",
+    "href": "lidar.html",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR, which stands for Light Detection and Ranging, is a remote sensing technology that measures highly accurate distances by emitting laser pulses onto the Earth’s surface to create 3D maps of objects and landscapes (Park et al., 2023; Roussel et al., 2020). This technology provides precise three-dimensional data about topography and surface features (Tooke et al., 2009).\nIn forestry, LiDAR is commonly used for mapping and assessing forests, including estimating tree heights and canopy structures (Roussel et al., 2020). In urban planning, it supports applications such as land use planning and infrastructure development (Dawood et al., 2017).\n\n\n\n\nLiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion.\n\n\n\n\n\n\n\n\nLiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS.\n\n\n\n\n\n\n Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR.\n\n\n\n\n\n\n\n\n R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
+    "objectID": "lidar.html#lidar-tools-and-workflows",
+    "href": "lidar.html#lidar-tools-and-workflows",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR, which stands for Light Detection and Ranging, is a remote sensing technology that measures highly accurate distances by emitting laser pulses onto the Earth’s surface to create 3D maps of objects and landscapes (Park et al., 2023; Roussel et al., 2020). This technology provides precise three-dimensional data about topography and surface features (Tooke et al., 2009).\nIn forestry, LiDAR is commonly used for mapping and assessing forests, including estimating tree heights and canopy structures (Roussel et al., 2020). In urban planning, it supports applications such as land use planning and infrastructure development (Dawood et al., 2017).\n\n\n\n\nLiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion.\n\n\n\n\n\n\n\n\nLiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS.\n\n\n\n\n\n\n Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR.\n\n\n\n\n\n\n\n\n R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
+    "objectID": "lidar.html#types-of-lidar",
+    "href": "lidar.html#types-of-lidar",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR systems are broadly categorized into two main types: Discrete Return LiDAR and Full Waveform LiDAR. Each type collects data differently and serves distinct purposes depending on the application.\nDiscrete Return LiDAR, commonly used in terrestrial and airborne surveys, captures distinct return points from each laser pulse, producing a 3D point cloud of the scanned environment.\nFull Waveform LiDAR records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.\n\n Figure 3: Types of LiDAR from Salas (2021).\n\n\n\n\n\n✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion."
+  },
+  {
+    "objectID": "lidar.html#types-of-lidar-systems",
+    "href": "lidar.html#types-of-lidar-systems",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "✈️ Airborne LiDAR Mounted on drones or aircraft to map forests and terrain from above.\n\n\n🌲 Terrestrial LiDAR Stationary ground-based scanners used for capturing tree trunks and structural details.\n\n\n🛰️ Spaceborne LiDAR Satellite-based systems used for global ecosystem monitoring and elevation mapping.\n\n\n🚗 Mobile LiDAR Mounted on vehicles or backpacks for scanning roads and built environments while in motion."
+  },
+  {
+    "objectID": "lidar.html#how-does-lidar-work",
+    "href": "lidar.html#how-does-lidar-work",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "LiDAR works by emitting laser pulses from a sensor mounted on an aircraft or ground-based device. These laser pulses interact with objects and the Earth’s surface and then bounce back to the sensor. By precisely measuring the time it takes for the laser pulses to return, LiDAR can calculate the distance between the sensor and the objects or the ground surface.\nLiDAR creates a detailed 3D map of the surveyed area, including terrain, vegetation, buildings, and other objects. This data is valuable for various applications, including forestry (like estimating tree heights and canopy structure), urban planning, flood modeling, and more. LiDAR technology provides highly accurate and detailed structural information, making it essential for many scientific and environmental studies.\nThe most common format for discrete-return LiDAR point cloud data is a LAZ file (e.g., lidar_data.laz). LAZ files are a lossless compression of LAS files, which was the industry standard LiDAR data format for a long time. LAS files are still used somewhat, but given the vastly reduced file sizes of LAZ, LAZ has largely replaced LAS."
+  },
+  {
+    "objectID": "lidar.html#interactive-examples",
+    "href": "lidar.html#interactive-examples",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "Figure 1: Tree detection using LiDAR (GIF demo).\n\n\n Figure 2: Individual tree identification workflow using LiDAR."
+  },
+  {
+    "objectID": "lidar.html#common-tools-for-processing-lidar",
+    "href": "lidar.html#common-tools-for-processing-lidar",
+    "title": "Isaac Kuugaayeng",
+    "section": "",
+    "text": "R (lidR package) The lidR package is a free and open-source tool in R for processing and analyzing LiDAR data. It supports point cloud filtering, tree detection, DTM/CHM generation, and forest metrics.\n\n\n🐍 Python (PDAL) PDAL (Point Data Abstraction Library) is a powerful open-source library, similar to GDAL. It’s built in C/C++ but offers a robust Python interface. PDAL uses a pipeline system written in JSON, making it highly customizable.\n\n\n CloudCompare CloudCompare is an open-source tool designed for viewing, editing, and processing point clouds. It’s user-friendly and highly interactive, making it ideal for visual exploration of point clouds.\n\n\nLAStools This tool is ideal for efficiently processing large quantities of LiDAR data. It supports both command-line and GUI workflows, and it’s often used for automated pipelines."
+  },
+  {
     "objectID": "Python.html",
     "href": "Python.html",
     "title": "Geospatial Data Analysis",
     "section": "",
     "text": "Geospatial Data Analysis\nThis course provided me with a strong foundation in Python programming and its applications in geospatial data analysis and environmental management. Lectures and hands-on exercises covered essential Python concepts, including syntax, data structures, control flow, and scripting, with a focus on processing and analyzing geospatial data. I gained experience working with Jupyter Notebooks, standalone Python scripts, and tools like Visual Studio Code, while using geo-focused libraries such as GDAL, Geopandas, and Rasterio.\nThrough working with real-world datasets from UBC’s Malcolm Knapp Research Forest and coastal northwest Madagascar, I developed practical skills in querying, manipulating, and analyzing spatial data to address environmental management challenges like landscape change, ecological resilience, and carbon monitoring. This course strengthened my ability to transition from using graphical GIS tools to developing custom geospatial workflows with Python, enhancing both my technical programming abilities and my analytical approach to solving spatial problems."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "\nWork Experience\n",
+    "section": "",
+    "text": "Present\nGIS Technician Intern, Social Planning Cowichan (SPC), Duncan, British Columbia\n\n\nProcess LiDAR data and satellite imagery using Python, ArcGIS Pro and QGIS to analyze land use change and support Indigenous-led cedar ecosystem restoration across the Cowichan, Koksilah, and Chemainus watersheds.\n\n\nLead the development of a custom mobile mapping app (Xpey’ Watch) using Python scripting and ArcGIS Online tools to automate field data collection and streamline stakeholder access to localized environmental datasets.\n\n\nMaintain ArcGIS Online spatial data infrastructure, perform QA/QC and update feature layers, manage metadata and enforce topological rules to ensure accuracy and integrity of utility and planning asset data.\n\n\n2024\nMGEM Capstone Researcher, University of British Columbia\n\n\nConducted shade mapping and 3D modeling of tree canopy using LiDAR and satellite data to assess its influence on building energy use on the UBC campus.\n\n\nCreated spatial models identifying priority areas for tree planting, improving urban climate resilience and contributing to a 10% increase in green space allocation.\n\n\n2022\nJunior Technical Advisor (Contract), German Development Cooperation (GIZ), Ghana\n\n\nProduced high-quality maps and interactive ArcGIS Dashboards to track municipal-scale land use patterns, zoning designations, and utility infrastructure projects which enhanced client decision-making.\n\n\nCo-developed an e-learning platform and geospatial data library to enhance municipal level planning, infrastructure data sharing long-term capacity-building of planning technicians, improving consistency in infrastructure reporting.\n\n\nAutomated spatial data workflows using Python, SQL and Model Builder to enhance geoprocessing efficiency by 30%, increasing accuracy and the timeliness of infrastructure planning deliverable.\n\n\n2021\nPlanning Technician Intern, Physical Planning Department, Ghana\n\n\nReviewed architectural and construction drawings and administered updates to ArcGIS Online utility asset data, improving municipal geodatabase accuracy for permitting and asset management.\n\n\nReviewed and assessed 25+ development permits and conducted field inspections to verify project compliance with zoning bylaws and land-use policies, resulting in streamlined approval timelines and increased adherence to planning standards.\n\n\nContributed to the design and production of spatial and settlement structure plans and high-resolution thematic maps for the Jirapa Municipality that guided policy recommendations and land use zoning aligned with municipal growth strategies using QGIS and ArcGIS."
+  },
+  {
+    "objectID": "Undergraduate.html",
+    "href": "Undergraduate.html",
+    "title": "Undergraduate Project",
+    "section": "",
+    "text": "Building Environmentally Resilient and Vibrant Open Spaces\n\nIn this project, I utilized innovative approaches to design public spaces that prioritize ecological sustainability, contribute to carbon sequestration, and provide opportunities for community-driven climate adaptation strategies using applications including ArcGIS Pro, QGIS, AutoCAD and Autodesk Revit. I applied the principles of urban resilience and sustainability in the design of this proposed public space by incorporating green infrastructure and nature-based solutions (NBS) to enhance climate resilience, reduce environmental impact, and improve community well-being,aligning with sustainable development principles.\n\nThe map shows the area for the project\n\n\n\n\n\n\n\nProposed Design for the bridge\n\n\n\n\n\n\n\nProposed Design for the open space"
   }
 ]

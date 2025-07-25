@@ -1,9 +1,5 @@
 ---
-title: "Publications"
 ---
-::: {style="background-color: #f5f5f5"}
-*Peer-reviewed publications:*
+## Publications
+Kuugaayeng, I. (2025). *The Impact of Tree Shade on Building Cooling Energy Demand During Summer*. UBC SEEDS Sustainability Program. [View Report](https://sustain.ubc.ca/sites/default/files/seedslibrary/Final%20Report%20Impact%20of%20Tree%20Shade%20on%20Building%20Cooling%20Energy%20Demand%20in%20Summer.pdf)
 
-Ayitey, J.Z., Kuugaayeng, I., Gyambibi, C.N. Comparative Analysis of Lease Renewal Process in the Land Sector Agencies in Ghana. American Real Estate Society (Paper Accepted for presentation at the American Real Estate Society Conference in March 2024)
-
-:::
