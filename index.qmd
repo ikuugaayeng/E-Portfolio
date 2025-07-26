@@ -8,7 +8,7 @@ format:
 
 :::::::: container
 ::: sidebar
-![](images/headshot.jpg){.profile-img}
+![](images/headshotII.jpg){.profile-img}
 
 ## Isaac Kuugaayeng
 
@@ -17,50 +17,35 @@ format:
 [![](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/ikuugaayeng)\
 [![](https://img.shields.io/badge/Email-white?logo=gmail&style=for-the-badge&logoColor=red)](mailto:isaac020@student.ubc.ca)
 
----
+------------------------------------------------------------------------
 
 [Home](index.qmd){.btn}\
 [Work Experience](resume.qmd){.btn}\
 [Publications](publications.qmd){.btn}\
-[Content](content.qmd){.btn}
+[Content and Deliverables](lidar.qmd){.btn}
 :::
 
 :::::: main-content
-
 ## Bio
 
-I am a recent graduate of the Master of Geomatics for Environmental Management (MGEM) program at the University of British Columbia (UBC), where my research focused on shade mapping of trees and buildings to support urban climate adaptation. I used LiDAR, satellite imagery, and 3D spatial models to assess tree shade coverage and prioritize areas for nature-based solutions in urban planning.
+I am a motivated Geomatics professional with **3+** years of hands-on experience working to deliver innovative solutions to support municipal level infrastructure planning, environmental and natural resource management and to advance climate resilience and risk adaptation projects and initiatives across Canada and Ghana. In 2025, I graduated with a master’s degree in Geomatics for Environmental Management from the University of British Columbia where I completed a capstone project that focused on the cooling impacts of shades for reduced energy consumption and neighborhood climate adaptation to ensure sustainable living in the residential neighborhoods.
 
-Currently, I work as a GIS Technician Intern at Social Planning Cowichan, supporting the Cedar Project—an Indigenous-led initiative to restore and protect cedar ecosystems in the Cowichan Valley. I specialize in spatial analysis, map design, LiDAR processing, GPS integration, and custom mobile mapping applications.
+Currently, I am interning as a GIS Analyst with Social Planning Cowichan, where I support an Indigenous-led cedar restoration and protection project. This initiative is focused on mitigating the loss of cedar trees, a cultural keystone species, that is threatened by climate change and land development in the Cowichan Region on Vancouver Island.
 
-With prior experience supporting municipal and regional planning projects in both Canada and Ghana, I am passionate about using GIS to inform sustainable land use, infrastructure planning, and climate resilience strategies.
+With prior experience working with Municipal governments, international organizations and academic institutions on projects spanning from planning to climate mitigation and research, I am passionate about using GIS to inform sustainable natural resource and environmental management, infrastructure planning, and climate resilience strategies.
 
----
+------------------------------------------------------------------------
 
-## Recent Projects and Publications
+## 
 
-::::: pub-row
-
-::: pub-card
-### [The Impact of Tree Shade on Building Cooling Energy Demand During Summer](https://sustain.ubc.ca/sites/default/files/seedslibrary/Final%20Report%20Impact%20of%20Tree%20Shade%20on%20Building%20Cooling%20Energy%20Demand%20in%20Summer.pdf)
-
-**Isaac Kuugaayeng, Dr. Nicholas Coops**  
-*UBC, MGEM Capstone 2024*
-
-**Abstract:**  
-The upsurge of climate change has exacerbated urban heat island (UHI) effect, leading to severe consequences for human health, urban livability, and energy demand. This project contributes to NCAP's goals by quantifying tree shade on buildings on UBC campus and analyzing its impact on building energy demand using LiDAR and sun-position modeling.
+::::: {.grid .gap-2}
+::: g-col-6
+![Tree Detection](images/lidar3d.gif){width="60%"} [Figure 1:**Lidar in 3D**.]{.figure-caption}
 :::
 
-::: pub-card
-### Multi-Criteria Suitability Analysis of Sites for Western Redcedar
-
-**Isaac Kuugaayeng**  
-*Social Planning Cowichan, Ongoing Project*
-
-**Abstract:**  
-This GIS-based study identifies suitable sites for redcedar planting across Cowichan, Koksilah, and Chemainus watersheds using Multi-Criteria Decision Analysis (MCDA) based on environmental conditions. It supports Indigenous-led restoration and climate-adaptive forestry strategies.
+::: g-col-6
+![](images/clipboard-1755395693.gif){width="334"} [Figure 2:**Shade simulation on UBC Vancouver Campus.**]{.figure-caption}
 :::
-
 :::::
 ::::::
-::::::::::
+::::::::
