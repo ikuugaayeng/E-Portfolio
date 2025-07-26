@@ -2,7 +2,7 @@
 editor: visual
 ---
 
-## [LiDAR data processing and Tools]{#section1 .highlight-blue}
+## [LiDAR Tools and Workflows]{#section1 .highlight-blue}
 
 :::::::::::::::::: row
 ::: col-md-7
@@ -22,7 +22,7 @@ LiDAR systems are broadly categorized into two main types: <strong class="highli
 <strong class="highlight-blue">Full Waveform LiDAR</strong> records the entire energy profile of the returning signal, offering a continuous vertical representation of surfaces, which is especially useful for analyzing complex vegetation structures or terrain in satellite-based applications.
 
 :::::::: col-md-5
-![LiDAR point cloud](images/lidar.jpg){width="47%"} [Figure 3: Types of LiDAR from Salas (2021).]{.figure-caption}
+![LiDAR point cloud](images/lidar.jpg){width="40%"} [Figure 3: Types of LiDAR from Salas (2021).]{.figure-caption}
 
 ------------------------------------------------------------------------
 
@@ -71,11 +71,11 @@ The most common format for discrete-return LiDAR point cloud data is a **LAZ** f
 
 ::::: {.grid .gap-2}
 ::: g-col-6
-![Tree Detection](images/tree-detection.gif){width="70%"} [Figure 1: Tree detection using LiDAR.]{.figure-caption}
+![Tree Detection](images/tree-detection.gif){width="100%"} [Figure 1: Tree detection using LiDAR (GIF demo).]{.figure-caption}
 :::
 
 ::: g-col-6
-![Individual Tree Detection](images/individual-tree-detection.gif){width="70%"} [Figure 2: Individual tree identification workflow using LiDAR.]{.figure-caption}
+![Individual Tree Detection](images/individual-tree-detection.gif){width="100%"} [Figure 2: Individual tree identification workflow using LiDAR.]{.figure-caption}
 :::
 :::::
 
