@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Work Experience.qmd
+      - href: WorkExperience.qmd
         text: Work Experience
       - href: publications.qmd
         text: Publications
@@ -16,7 +16,7 @@ website:
         menu:
           - href: lidar.qmd
             text: LiDAR Tools and Workflows
-          - href: Suitability Analysis.qmd
+          - href: SuitabilityAnalysis.qmd
             text: Site Suitability Analysis
           - href: gis.qmd
             text: Geographic Information System
