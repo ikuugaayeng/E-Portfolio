@@ -1,0 +1,32 @@
+---
+format: html
+editor: visual
+---
+
+## [Analyzing Green Equity Using Geographically Weighted Regression]{#section1 .highlight-blue}
+
+:::: row
+::: col-md-7
+Human well-being, including physical and psychological well-being increase when residents are exposed to green space and urban forests. Equitable access to green spaces across urban landscape is very important as it allows people to enjoy ecosystem services including improved air quality, urban heat island mitigation, and opportunities for recreation.
+
+I explored the relationships between vegetation greenness and socioeconomic variables in Vancouver, BC by applying advanced SQL and PostGIS functions to a relational database to prepare high-dimensional census data for the analysis. Key demographic indicators such as income, education, and age were aggregated at the dissemination area level and joined with spatial geometries in QGIS.
+
+Normalized Difference Vegetation Index (NDVI) was calculated using Landsat 8 imagery (Bands 4 and 5). Summary NDVI statistics (mean, max, min, std. dev) were computed across dissemination areas using ArcGIS Pro’s zonal statistics tools and joined to the census feature layer.
+
+To identify meaningful relationships, I conducted exploratory regression using census characteristics as candidate explanatory variables. Based on adjusted R², AICc, and VIF metrics, optimal models were selected. These were evaluated using Ordinary Least Squares (OLS) and refined using Geographically Weighted Regression (GWR), which accounts for spatial variation in relationships.
+
+Through mapping GWR outputs;standardized residuals, local R², coefficients, and standard errors, I interpreted spatial patterns and identified predictors of NDVI variation. I further repeated this process using a custom set of 10 census variables and compared model performance across three NDVI metrics.
+:::
+::::
+
+## [Result]{.highlight-blue}
+
+:::: row
+::: col-md-7
+The results show that the relationship between green space and factors like income or housing varies across Vancouver. In the eastern and southern areas, the model explains this relationship well. However, in the northern and downtown parts of the city, the model is less accurate. This suggests that other factors, not included in our analysis, may be influencing green space in those areas.
+:::
+::::
+
+### [Maps showing the standardized residuals and local R\^2 for each of the different NDVI statistics.]{.highlight-blue}
+
+![](images/Layout.jpg)

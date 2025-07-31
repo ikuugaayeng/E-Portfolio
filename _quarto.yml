@@ -18,8 +18,15 @@ website:
             text: LiDAR Tools and Workflows
           - href: SuitabilityAnalysis.qmd
             text: Site Suitability Analysis
-          - href: gis.qmd
-            text: Geographic Information System
+          - href: least.qmd
+            text: Habitat Modelling in Alberta
+          - href: geocoding.qmd
+            text: Geocoding
+          - href: machine.qmd
+            text: Machine Learning
+          - href: Green.qmd
+            text: Green Equity Analysis
+
 
 format:
   html:

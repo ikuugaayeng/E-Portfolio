@@ -1,0 +1,30 @@
+---
+format: html
+editor: visual
+---
+
+## [Machine Learning with Geospatial Data]{#section1 .highlight-blue}
+
+:::: row
+::: col-md-7
+There are a number of things that should be considered when undertaking machine learning with geospatial data. In this analysis, I practiced using machine learning techniques in ArcGIS Pro to predict vegetation fuel type (categorical) and crown closure (continuous) in the post-burn area of the 2017 Elephant Hill wildfire in British Columbia. The workflow consisted of three tasks: variable selection, sampling strategy design, and model training using the Random Forest algorithm.
+
+In Task 1, I performed spatial autocorrelation analysis using Moran’s I in the data to select a subset of input variables which will be most useful in predicting the outcome variables. Exploratory regression identified optimal predictor rasters across terrain, climate, and spectral variables. Model selection was based on R², AIC, VIF, and variable significance.
+
+Task 2 involved creating three training datasets of 500 points using random, stratified random, and fixed interval sampling designs. Stratification ensured balanced representation across fuel type categories and also mitigated the impact of class imbalance.
+
+In Task 3, Forest-based Classification and Regression tool was used to generate prediction surfaces for both variables. Fuel type was modeled using all three sampling sets, while crown closure was tested under six configurations of Random Forest parameters (tree depth, sampled variables, and validation runs). The Model outputs included classification performance metrics (e.g., confusion matrices for categorical prediction) and regression statistics (R², RMSE) for validation.
+:::
+::::
+
+## [Result]{.highlight-blue}
+
+:::: row
+::: col-md-7
+Results showed that the stratified random sampling method had the best fuel type predictions, with the highest validation accuracy (46%) and lowest mean squared error (63.73). For crown closure, the optimal model used two sampled variables per split, producing an R² of 0.417, RMSE of 14.29, and MAE of 11.60.
+:::
+::::
+
+## [Predicted Fuel Type and Canopy Cover]{.highlight-blue}
+
+![](images/Machine learning.jpg)

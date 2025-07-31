@@ -1,0 +1,27 @@
+---
+format: html
+editor: visual
+---
+
+## [Modelling Grizzly Bears Habitat and Movement in Western Alberta]{#section1 .highlight-blue}
+
+:::: row
+::: col-md-7
+In this analysis, I explored many of the different raster operations using the Geospatial Data Abstraction Library (GDAL). I also practiced using these utilities directly from the command line and in QGIS to evaluate and model a potential wildlife corridor in the Yellowhead region. The workflow combined terrain analysis, cost surface generation, and least cost path modeling to determine an optimal route between two target points that minimizes barriers to animal movement.
+
+I began by defining an Area of Interest (AOI) that represented the extent of all of the raster processing. Using slope derived from a DEM, land cover categories, and road networks, I reclassified each layer based on ecological cost, assigning higher values to features likely to impede wildlife movement (e.g., roads, urban areas, steep slopes). These layers were then weighted and combined using raster calculator operations to produce a total cost surface.
+
+The analysis culminated into least cost path modeling in ArcGIS Pro. Using the “Distance Accumulation” and “Optimal Path as Line” tools, I generated a path between designated source and target locations based on accumulated travel cost. The resulting least cost path was evaluated against landscape features to interpret how slope, distance to roads, and land cover influenced the movement of paths of Grizzly bears.
+:::
+::::
+
+:::: row
+::: col-md-7
+## [Key findings]{.highlight-blue}
+
+The final path avoided major roads and steep slopes and passed through areas with such as forests and gentle terrain. This analysis models a realistic approach critical conservation problem in Western Alberta for Grizzly habitat and movement, as much of the historical range of Grizzly bears have been reduced by human activity.
+:::
+::::
+
+## [Map showing the least cost paths]{.highlight-blue}
+![](images/Least%20Cost%20Path.jpg)

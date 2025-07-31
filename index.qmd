@@ -20,7 +20,7 @@ format:
 ------------------------------------------------------------------------
 
 [Home](index.qmd){.btn}\
-[Work Experience](resume.qmd){.btn}\
+[Work Experience](WorkExperience.qmd){.btn}\
 [Publications](publications.qmd){.btn}\
 [Content and Deliverables](lidar.qmd){.btn}
 :::

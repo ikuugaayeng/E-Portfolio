@@ -1,0 +1,26 @@
+---
+format: html
+editor: visual
+---
+
+## [Geocoding]{#section1 .highlight-blue}
+
+:::: row
+::: col-md-7
+This work focused mainly on how to import tabular data into ArcGIS Pro, create an address locator and geocode addresses, which is very essential in urban forestry.
+
+The first task involved filtering street tree data to get trees with manually assigned addresses. I created a new field that merged house numbers and street names into a single address string. Using a custom-built address locator based on the Greater Vancouver road network, I geocoded these addresses and generated point features. Match scores were assessed to determine the reliability of the geocoded results. While most addresses returned perfect matches, a few with incomplete or fabricated values scored lower, illustrating common challenges with address-based data.
+
+I also used coordinate data from a park tree inventory to create an XY event layer and converted it into a projected shapefile using the NAD 1983 UTM Zone 10N coordinate system. A spatial join with park polygon data was performed to count the number of trees per park, allowing tree density to be mapped and interpreted.
+:::
+::::
+
+## [Application in Urban Forestry]{.highlight-blue}
+
+:::: row
+::: col-md-7
+This analysis emphasized the importance of data preparation, spatial referencing, and quality assessment when working with address and coordinate-based datasets. The workflow is directly applicable to urban forest management and helps inform tree planting, maintenance, and policy planning.
+:::
+::::
+
+![](images/Mapping Street Tree Density in Hasting - Sunrise Neighborhood.jpg){width="776"}
