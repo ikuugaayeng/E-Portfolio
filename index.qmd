@@ -23,7 +23,6 @@ format:
 [Work Experience](WorkExperience.qmd){.btn}\
 [Publications](publications.qmd){.btn}\
 [Content and Deliverables](lidar.qmd){.btn}
-[Maps Catalogue](mapscatalogue.qmd){.btn}
 :::
 
 :::::: main-content
