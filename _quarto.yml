@@ -26,6 +26,8 @@ website:
             text: Machine Learning
           - href: Green.qmd
             text: Green Equity Analysis
+          - href: mapscatalogue.qmd
+            text: Maps Catalogue
 
 
 format:

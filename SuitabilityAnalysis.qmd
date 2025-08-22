@@ -9,7 +9,7 @@ execute:
   eval: true
 ---
 
-[Multi-criteria Decision Analysis Approach to Site Suitability for the growth and Restoration of Western Redcedar on Vancouver Island using LiDAR]{#section1 .highlight-blue}
+[Multi-criteria Decision Analysis Approach to Site Suitability Analysis for the growth and Restoration of Western Redcedar on Vancouver Island using LiDAR]{#section1 .highlight-blue}
 
 # Introduction
 

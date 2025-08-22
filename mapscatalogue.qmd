@@ -1,0 +1,26 @@
+---
+title: "Map Catalogue"
+format: html
+editor: visual
+---
+
+This section presents a catalogue of maps produced for three watersheds: **Koksilah**, **Cowichan**, and **Chemainus** on Vancouver Island during my internship with Social Planning Cowichan/Quw'tsun Cultural Connections Society.\
+For each watershed, maps are shown for **Elevation, Aspect, Topographic Wetness Index (TWI), Slope, and Composite Suitability**. The Digital Elevation Model was generated from LiDAR point cloud data.
+
+------------------------------------------------------------------------
+
+## Koksilah Watershed
+
+![](maps/koksilah_aspect.jpg){fig-alt="Aspect map of Koksilah Watershed" width="100%"} ![](maps/koksilah_twi.jpg){fig-alt="TWI map of Koksilah Watershed" width="100%"} ![](maps/koksilah_slope.jpg){fig-alt="Slope map of Koksilah Watershed" width="100%"} ![](maps/koksilah_composite.jpg){fig-alt="Composite map of Koksilah Watershed" width="100%"}
+
+------------------------------------------------------------------------
+
+## Cowichan Watershed
+
+![](maps/cowichan_elevation.jpg){fig-alt="Elevation map of Cowichan Watershed" width="100%"} ![](maps/cowichan_aspect.jpg){fig-alt="Aspect map of Cowichan Watershed" width="100%"} ![](maps/cowichan_twi.jpg){fig-alt="TWI map of Cowichan Watershed" width="100%"} ![](maps/cowichan_slope.jpg){fig-alt="Slope map of Cowichan Watershed" width="100%"} ![](maps/cowichan_composite.jpg){fig-alt="Composite map of Cowichan Watershed" width="100%"}
+
+------------------------------------------------------------------------
+
+## Chemainus Watershed
+
+![](maps/chemainus_elevation.jpg){fig-alt="Elevation map of Chemainus Watershed" width="100%"} ![](maps/chemainus_aspect.jpg){fig-alt="Aspect map of Chemainus Watershed" width="100%"} ![](maps/chemainus_twi.jpg){fig-alt="TWI map of Chemainus Watershed" width="100%"} ![](maps/chemainus_slope.jpg){fig-alt="Slope map of Chemainus Watershed" width="100%"} ![](maps/chemainus_composite.jpg){fig-alt="Composite map of Chemainus Watershed" width="100%"}

@@ -1,0 +1,40 @@
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  new Swiper('.swiper-container', {
+    slidesPerView: 2,
+    spaceBetween: 20,
+    loop: true,
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    breakpoints: {
+      640: { slidesPerView: 1 },
+      1024: { slidesPerView: 2 },
+    }
+  });
+});
+</script>
+
+<style>
+.swiper-slide img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.swiper-container {
+  margin-bottom: 40px;
+}
+</style>
+
+
+/* Optional: spacing for map catalogue images */
+img {
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}

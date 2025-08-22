@@ -27,4 +27,4 @@ Results showed that the stratified random sampling method had the best fuel type
 
 ## [Predicted Fuel Type and Canopy Cover]{.highlight-blue}
 
-![](images/Machine learning.jpg)
+![](images/Machine%20learning.jpg)

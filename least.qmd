@@ -24,4 +24,5 @@ The final path avoided major roads and steep slopes and passed through areas wit
 ::::
 
 ## [Map showing the least cost paths]{.highlight-blue}
+
 ![](images/Least%20Cost%20Path.jpg)

@@ -23,4 +23,4 @@ This analysis emphasized the importance of data preparation, spatial referencing
 :::
 ::::
 
-![](images/Mapping Street Tree Density in Hasting - Sunrise Neighborhood.jpg){width="776"}
+![](images/Mapping%20Street%20Tree%20Density%20in%20Hasting%20-%20Sunrise%20Neighborhood.jpg){width="776"}

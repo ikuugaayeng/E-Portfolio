@@ -676,3 +676,10 @@ nav.toc a:hover {
 
 
 
+
+/* Optional: spacing for map catalogue images */
+img {
+  margin-bottom: 1rem;
+  border-radius: 6px;
+}
+
